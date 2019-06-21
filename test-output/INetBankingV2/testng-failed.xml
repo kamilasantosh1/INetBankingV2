@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [INetBankingV2]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.InetBanking.utilities.ExtentReport"/>
+  </listeners>
+  <test thread-count="5" name="ChromeTest(failed)">
+    <parameter name="BROWSER" value="chrome"/>
+    <classes>
+      <class name="com.InetBanking.testCases.TC_LoginTest_001">
+        <methods>
+          <include name="loginTest"/>
+          <include name="closeApplication"/>
+          <include name="openApplication"/>
+        </methods>
+      </class> <!-- com.InetBanking.testCases.TC_LoginTest_001 -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [INetBankingV2] -->

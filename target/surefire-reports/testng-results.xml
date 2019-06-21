@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-06-21T15:21:21Z" name="INetBankingV2" finished-at="2019-06-21T15:24:17Z" duration-ms="175693">
+    <groups>
+    </groups>
+    <test started-at="2019-06-21T15:21:21Z" name="ChromeTest" finished-at="2019-06-21T15:24:17Z" duration-ms="175693">
+      <class name="com.InetBanking.testCases.TC_LoginTest_001">
+        <test-method is-config="true" signature="openApplication(java.lang.String)[pri:0, instance:com.InetBanking.testCases.TC_LoginTest_001@56c4278e]" started-at="2019-06-21T15:21:22Z" name="openApplication" finished-at="2019-06-21T15:23:10Z" duration-ms="108871" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="loginTest()[pri:0, instance:com.InetBanking.testCases.TC_LoginTest_001@56c4278e]" started-at="2019-06-21T15:23:10Z" name="loginTest" finished-at="2019-06-21T15:23:36Z" duration-ms="25450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeApplication(org.testng.ITestResult)[pri:0, instance:com.InetBanking.testCases.TC_LoginTest_001@56c4278e]" started-at="2019-06-21T15:23:36Z" name="closeApplication" finished-at="2019-06-21T15:23:36Z" duration-ms="174" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest status=SUCCESS method=TC_LoginTest_001.loginTest()[pri:0, instance:com.InetBanking.testCases.TC_LoginTest_001@56c4278e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.InetBanking.testCases.TC_LoginTest_001 -->
+      <class name="com.InetBanking.testCases.TC_CreateCustomer_001">
+        <test-method is-config="true" signature="openApplication(java.lang.String)[pri:0, instance:com.InetBanking.testCases.TC_CreateCustomer_001@301eda63]" started-at="2019-06-21T15:23:36Z" name="openApplication" finished-at="2019-06-21T15:23:48Z" duration-ms="12370" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="createCustomerTest()[pri:0, instance:com.InetBanking.testCases.TC_CreateCustomer_001@301eda63]" started-at="2019-06-21T15:23:48Z" name="createCustomerTest" finished-at="2019-06-21T15:24:17Z" duration-ms="28136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerTest -->
+        <test-method is-config="true" signature="closeApplication(org.testng.ITestResult)[pri:0, instance:com.InetBanking.testCases.TC_CreateCustomer_001@301eda63]" started-at="2019-06-21T15:24:17Z" name="closeApplication" finished-at="2019-06-21T15:24:17Z" duration-ms="108" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createCustomerTest status=SUCCESS method=TC_CreateCustomer_001.createCustomerTest()[pri:0, instance:com.InetBanking.testCases.TC_CreateCustomer_001@301eda63] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.InetBanking.testCases.TC_CreateCustomer_001 -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- INetBankingV2 -->
+</testng-results>

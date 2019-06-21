@@ -1,0 +1,445 @@
+2019-06-13 01:06:11,868 - BaseTest -INFO - Browser opened
+ 2019-06-13 01:06:23,112 - BaseTest -INFO - Username entered
+ 2019-06-13 01:06:23,220 - BaseTest -INFO - Password entered
+ 2019-06-13 01:06:29,118 - BaseTest -INFO - logintest is passed
+ 2019-06-13 02:31:41,093 - BaseTest -INFO - Browser opened
+ 2019-06-13 02:31:44,626 - BaseTest -INFO - Username entered
+ 2019-06-13 02:31:44,737 - BaseTest -INFO - Password entered
+ 2019-06-13 02:31:47,895 - BaseTest -INFO - logintest is passed
+ 2019-06-13 02:40:34,942 - BaseTest -INFO - Browser opened
+ 2019-06-13 02:41:00,610 - BaseTest -INFO - Username entered
+ 2019-06-13 02:41:00,723 - BaseTest -INFO - Password entered
+ 2019-06-13 02:41:06,502 - BaseTest -INFO - logintest is passed
+ 2019-06-14 00:47:17,382 - BaseTest -INFO - Browser opened
+ 2019-06-14 00:47:36,437 - BaseTest -INFO - Username entered
+ 2019-06-14 00:47:36,540 - BaseTest -INFO - Password entered
+ 2019-06-14 00:47:40,167 - BaseTest -INFO - logintest is passed
+ 2019-06-14 00:53:54,348 - BaseTest -INFO - Browser opened
+ 2019-06-14 00:54:04,460 - BaseTest -INFO - Username entered
+ 2019-06-14 00:54:04,583 - BaseTest -INFO - Password entered
+ 2019-06-14 00:54:07,298 - BaseTest -INFO - logintest is passed
+ 2019-06-14 01:27:26,209 - BaseTest -INFO - Browser opened
+ 2019-06-14 01:27:57,809 - BaseTest -INFO - Username entered
+ 2019-06-14 01:27:57,915 - BaseTest -INFO - Password entered
+ 2019-06-14 01:28:00,397 - BaseTest -INFO - logintest is passed
+ 2019-06-14 01:38:07,968 - BaseTest -INFO - Browser opened
+ 2019-06-14 01:42:02,445 - BaseTest -INFO - Browser opened
+ 2019-06-14 01:42:09,002 - BaseTest -INFO - Username entered
+ 2019-06-14 01:42:09,140 - BaseTest -INFO - Password entered
+ 2019-06-14 01:42:13,933 - BaseTest -INFO - logintest is passed
+ 2019-06-14 01:55:52,766 - BaseTest -INFO - Browser opened
+ 2019-06-14 01:56:16,547 - BaseTest -INFO - Username entered
+ 2019-06-14 01:56:16,667 - BaseTest -INFO - Password entered
+ 2019-06-14 01:56:20,941 - BaseTest -INFO - logintest is passed
+ 2019-06-15 12:03:29,695 - BaseTest -INFO - Browser opened
+ 2019-06-15 12:03:34,292 - BaseTest -INFO - Username entered
+ 2019-06-15 12:03:34,396 - BaseTest -INFO - Password entered
+ 2019-06-15 12:03:39,159 - BaseTest -INFO - logintest is passed
+ 2019-06-15 12:30:51,542 - BaseTest -INFO - Browser opened
+ 2019-06-15 12:31:09,236 - BaseTest -INFO - Username entered
+ 2019-06-15 12:31:09,390 - BaseTest -INFO - Password entered
+ 2019-06-15 12:31:15,188 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 12:38:11,105 - BaseTest -INFO - Browser opened
+ 2019-06-15 12:38:13,797 - BaseTest -INFO - Username entered
+ 2019-06-15 12:38:13,912 - BaseTest -INFO - Password entered
+ 2019-06-15 12:38:17,730 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 12:41:51,789 - BaseTest -INFO - Browser opened
+ 2019-06-15 12:41:55,412 - BaseTest -INFO - Username entered
+ 2019-06-15 12:41:55,549 - BaseTest -INFO - Password entered
+ 2019-06-15 12:41:59,444 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 12:43:57,708 - BaseTest -INFO - Browser opened
+ 2019-06-15 12:44:00,228 - BaseTest -INFO - Username entered
+ 2019-06-15 12:44:00,328 - BaseTest -INFO - Password entered
+ 2019-06-15 12:44:02,868 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 12:45:22,711 - BaseTest -INFO - Browser opened
+ 2019-06-15 12:45:36,780 - BaseTest -INFO - Username entered
+ 2019-06-15 12:45:36,884 - BaseTest -INFO - Password entered
+ 2019-06-15 12:51:19,863 - BaseTest -INFO - Browser opened
+ 2019-06-15 12:51:22,419 - BaseTest -INFO - Username entered
+ 2019-06-15 12:51:22,536 - BaseTest -INFO - Password entered
+ 2019-06-15 12:59:26,481 - BaseTest -INFO - Browser opened
+ 2019-06-15 12:59:29,217 - BaseTest -INFO - Username entered
+ 2019-06-15 12:59:29,317 - BaseTest -INFO - Password entered
+ 2019-06-15 12:59:33,310 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 13:01:08,048 - BaseTest -INFO - Browser opened
+ 2019-06-15 13:01:11,181 - BaseTest -INFO - Username entered
+ 2019-06-15 13:01:11,284 - BaseTest -INFO - Password entered
+ 2019-06-15 13:14:08,037 - BaseTest -INFO - Browser opened
+ 2019-06-15 13:14:11,494 - BaseTest -INFO - Username entered
+ 2019-06-15 13:14:11,593 - BaseTest -INFO - Password entered
+ 2019-06-15 13:35:53,047 - BaseTest -INFO - Browser opened
+ 2019-06-15 13:35:57,339 - BaseTest -INFO - Username entered
+ 2019-06-15 13:35:57,457 - BaseTest -INFO - Password entered
+ 2019-06-15 13:37:13,393 - BaseTest -INFO - Browser opened
+ 2019-06-15 13:37:15,939 - BaseTest -INFO - Username entered
+ 2019-06-15 13:37:16,042 - BaseTest -INFO - Password entered
+ 2019-06-15 13:46:03,319 - BaseTest -INFO - Browser opened
+ 2019-06-15 13:46:06,053 - BaseTest -INFO - Username entered
+ 2019-06-15 13:46:06,155 - BaseTest -INFO - Password entered
+ 2019-06-15 13:46:08,780 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 13:47:40,616 - BaseTest -INFO - Browser opened
+ 2019-06-15 13:47:41,023 - BaseTest -INFO - Username entered
+ 2019-06-15 13:47:41,149 - BaseTest -INFO - Password entered
+ 2019-06-15 14:40:55,177 - BaseTest -INFO - Browser opened
+ 2019-06-15 14:41:00,973 - BaseTest -INFO - Username entered
+ 2019-06-15 14:41:01,103 - BaseTest -INFO - Password entered
+ 2019-06-15 15:15:33,630 - BaseTest -INFO - Browser opened
+ 2019-06-15 15:15:35,501 - BaseTest -INFO - Username entered
+ 2019-06-15 15:15:35,679 - BaseTest -INFO - Password entered
+ 2019-06-15 15:20:42,120 - BaseTest -INFO - Browser opened
+ 2019-06-15 15:20:45,051 - BaseTest -INFO - Username entered
+ 2019-06-15 15:20:45,192 - BaseTest -INFO - Password entered
+ 2019-06-15 15:32:19,380 - BaseTest -INFO - Browser opened
+ 2019-06-15 15:32:21,528 - BaseTest -INFO - Username entered
+ 2019-06-15 15:32:21,643 - BaseTest -INFO - Password entered
+ 2019-06-15 15:36:39,243 - BaseTest -INFO - Browser opened
+ 2019-06-15 15:36:47,104 - BaseTest -INFO - Username entered
+ 2019-06-15 15:36:47,265 - BaseTest -INFO - Password entered
+ 2019-06-15 15:36:55,641 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 15:44:28,169 - BaseTest -INFO - Browser opened
+ 2019-06-15 15:44:31,540 - BaseTest -INFO - Username entered
+ 2019-06-15 15:44:31,705 - BaseTest -INFO - Password entered
+ 2019-06-15 15:44:34,839 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 15:46:10,100 - BaseTest -INFO - Browser opened
+ 2019-06-15 15:46:10,850 - BaseTest -INFO - Username entered
+ 2019-06-15 15:46:10,978 - BaseTest -INFO - Password entered
+ 2019-06-15 15:46:14,391 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 15:52:38,720 - BaseTest -INFO - Browser opened
+ 2019-06-15 15:52:38,931 - BaseTest -INFO - Username entered
+ 2019-06-15 15:52:39,067 - BaseTest -INFO - Password entered
+ 2019-06-15 15:52:41,293 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 15:54:38,735 - BaseTest -INFO - Browser opened
+ 2019-06-15 15:54:39,216 - BaseTest -INFO - Username entered
+ 2019-06-15 15:54:39,340 - BaseTest -INFO - Password entered
+ 2019-06-15 15:54:41,764 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 16:04:47,341 - BaseTest -INFO - Browser opened
+ 2019-06-15 16:04:52,722 - BaseTest -INFO - Username entered
+ 2019-06-15 16:04:52,948 - BaseTest -INFO - Password entered
+ 2019-06-15 16:04:55,591 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 16:14:37,601 - BaseTest -INFO - Browser opened
+ 2019-06-15 16:14:40,892 - BaseTest -INFO - Username entered
+ 2019-06-15 16:14:41,006 - BaseTest -INFO - Password entered
+ 2019-06-15 16:14:45,526 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 16:58:50,353 - BaseTest -INFO - Browser opened
+ 2019-06-15 16:58:55,529 - BaseTest -INFO - Username entered
+ 2019-06-15 16:58:55,670 - BaseTest -INFO - Password entered
+ 2019-06-15 16:59:30,341 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 17:03:03,509 - BaseTest -INFO - Browser opened
+ 2019-06-15 17:03:07,787 - BaseTest -INFO - Username entered
+ 2019-06-15 17:03:07,977 - BaseTest -INFO - Password entered
+ 2019-06-15 17:03:13,757 - BaseTest -INFO - logintest is passed
+ 2019-06-15 17:04:53,524 - BaseTest -INFO - Browser opened
+ 2019-06-15 17:04:59,436 - BaseTest -INFO - Username entered
+ 2019-06-15 17:04:59,580 - BaseTest -INFO - Password entered
+ 2019-06-15 17:05:05,140 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 17:27:13,745 - BaseTest -INFO - Browser opened
+ 2019-06-15 17:27:13,931 - BaseTest -INFO - Username entered
+ 2019-06-15 17:27:14,063 - BaseTest -INFO - Password entered
+ 2019-06-15 17:27:25,447 - BaseTest -INFO - Test Pass
+ 2019-06-15 17:28:50,633 - BaseTest -INFO - Browser opened
+ 2019-06-15 17:28:54,385 - BaseTest -INFO - Username entered
+ 2019-06-15 17:28:54,511 - BaseTest -INFO - Password entered
+ 2019-06-15 17:42:40,313 - BaseTest -INFO - Browser opened
+ 2019-06-15 17:42:44,342 - BaseTest -INFO - Username entered
+ 2019-06-15 17:42:44,441 - BaseTest -INFO - Password entered
+ 2019-06-15 17:42:49,080 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 21:12:22,040 - BaseTest -INFO - Browser opened
+ 2019-06-15 21:12:24,199 - BaseTest -INFO - Username entered
+ 2019-06-15 21:12:24,324 - BaseTest -INFO - Password entered
+ 2019-06-15 21:12:58,430 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 21:18:10,743 - BaseTest -INFO - Browser opened
+ 2019-06-15 21:18:12,976 - BaseTest -INFO - Username entered
+ 2019-06-15 21:18:13,101 - BaseTest -INFO - Password entered
+ 2019-06-15 21:18:19,824 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 22:11:55,193 - BaseTest -INFO - Browser opened
+ 2019-06-15 22:12:02,682 - BaseTest -INFO - Username entered
+ 2019-06-15 22:12:02,831 - BaseTest -INFO - Password entered
+ 2019-06-15 22:12:08,318 - BaseTest -INFO - loggintest is failed
+ 2019-06-15 22:14:43,827 - BaseTest -INFO - Browser opened
+ 2019-06-15 22:14:46,304 - BaseTest -INFO - Username entered
+ 2019-06-15 22:14:46,424 - BaseTest -INFO - Password entered
+ 2019-06-15 22:14:49,812 - BaseTest -INFO - loggintest is failed
+ 2019-06-17 16:00:43,201 - BaseTest -INFO - Browser opened
+ 2019-06-17 16:00:52,552 - BaseTest -INFO - Username entered
+ 2019-06-17 16:00:54,728 - BaseTest -INFO - Password entered
+ 2019-06-17 16:00:54,977 - BaseTest -INFO - loggintest is failed
+ 2019-06-17 16:02:12,334 - BaseTest -INFO - Browser opened
+ 2019-06-17 16:02:17,465 - BaseTest -INFO - Username entered
+ 2019-06-17 16:02:22,617 - BaseTest -INFO - Password entered
+ 2019-06-17 16:02:22,841 - BaseTest -INFO - loggintest is failed
+ 2019-06-17 16:11:59,842 - BaseTest -INFO - Browser opened
+ 2019-06-17 16:12:02,083 - BaseTest -INFO - Username entered
+ 2019-06-17 16:12:07,227 - BaseTest -INFO - Password entered
+ 2019-06-17 16:12:07,442 - BaseTest -INFO - loggintest is failed
+ 2019-06-17 16:54:00,843 - BaseTest -INFO - Browser opened
+ 2019-06-17 16:54:17,239 - BaseTest -INFO - Username entered
+ 2019-06-17 16:54:22,608 - BaseTest -INFO - Password entered
+ 2019-06-17 17:03:40,878 - BaseTest -INFO - Browser opened
+ 2019-06-17 17:03:43,596 - BaseTest -INFO - Username entered
+ 2019-06-17 17:03:48,904 - BaseTest -INFO - Password entered
+ 2019-06-17 17:05:25,618 - BaseTest -INFO - Browser opened
+ 2019-06-17 17:05:28,612 - BaseTest -INFO - Username entered
+ 2019-06-17 17:05:33,911 - BaseTest -INFO - Password entered
+ 2019-06-17 17:08:23,015 - BaseTest -INFO - Browser opened
+ 2019-06-17 17:08:25,558 - BaseTest -INFO - Username entered
+ 2019-06-17 17:08:30,829 - BaseTest -INFO - Password entered
+ 2019-06-17 17:13:14,739 - BaseTest -INFO - Browser opened
+ 2019-06-17 17:16:33,305 - BaseTest -INFO - Browser opened
+ 2019-06-17 17:16:33,533 - BaseTest -INFO - Username entered
+ 2019-06-17 17:16:38,685 - BaseTest -INFO - Password entered
+ 2019-06-17 17:19:32,513 - BaseTest -INFO - Browser opened
+ 2019-06-17 17:19:33,100 - BaseTest -INFO - Username entered
+ 2019-06-17 17:19:38,410 - BaseTest -INFO - Password entered
+ 2019-06-17 17:21:25,742 - BaseTest -INFO - Browser opened
+ 2019-06-17 17:21:26,529 - BaseTest -INFO - Username entered
+ 2019-06-17 17:21:31,854 - BaseTest -INFO - Password entered
+ 2019-06-17 17:22:27,222 - BaseTest -INFO - Browser opened
+ 2019-06-17 17:22:27,624 - BaseTest -INFO - Username entered
+ 2019-06-17 17:22:32,963 - BaseTest -INFO - Password entered
+ 2019-06-17 17:24:03,696 - BaseTest -INFO - Browser opened
+ 2019-06-17 17:24:04,024 - BaseTest -INFO - Username entered
+ 2019-06-17 17:24:09,311 - BaseTest -INFO - Password entered
+ 2019-06-17 17:45:30,223 - BaseTest -INFO - Browser opened
+ 2019-06-17 17:45:45,140 - BaseTest -INFO - Username entered
+ 2019-06-17 17:45:50,284 - BaseTest -INFO - Password entered
+ 2019-06-17 17:45:55,151 - BaseTest -INFO - loggintest is failed
+ 2019-06-18 01:01:58,908 - BaseTest -INFO - Browser opened
+ 2019-06-18 01:02:10,952 - BaseTest -INFO - Username entered
+ 2019-06-18 01:02:11,066 - BaseTest -INFO - Password entered
+ 2019-06-18 01:08:30,273 - BaseTest -INFO - Browser opened
+ 2019-06-18 01:10:24,357 - BaseTest -INFO - Browser opened
+ 2019-06-18 01:13:19,021 - BaseTest -INFO - Browser opened
+ 2019-06-18 01:13:21,816 - BaseTest -INFO - Username entered
+ 2019-06-18 01:13:21,930 - BaseTest -INFO - Password entered
+ 2019-06-18 01:14:48,107 - BaseTest -INFO - Browser opened
+ 2019-06-18 01:14:50,535 - BaseTest -INFO - Username entered
+ 2019-06-18 01:14:50,652 - BaseTest -INFO - Password entered
+ 2019-06-18 01:17:18,771 - BaseTest -INFO - Browser opened
+ 2019-06-18 01:17:21,416 - BaseTest -INFO - Username entered
+ 2019-06-18 01:17:21,516 - BaseTest -INFO - Password entered
+ 2019-06-18 01:17:30,769 - BaseTest -INFO - login pass
+ 2019-06-18 01:20:56,868 - BaseTest -INFO - Browser opened
+ 2019-06-18 01:20:59,483 - BaseTest -INFO - Username entered
+ 2019-06-18 01:20:59,592 - BaseTest -INFO - Password entered
+ 2019-06-18 01:21:07,913 - BaseTest -INFO - login pass
+ 2019-06-18 01:26:38,822 - BaseTest -INFO - Browser opened
+ 2019-06-18 01:26:42,357 - BaseTest -INFO - Username entered
+ 2019-06-18 01:26:42,459 - BaseTest -INFO - Password entered
+ 2019-06-18 01:26:52,416 - BaseTest -INFO - login pass
+ 2019-06-18 01:28:56,726 - BaseTest -INFO - Browser opened
+ 2019-06-18 01:29:00,073 - BaseTest -INFO - Username entered
+ 2019-06-18 01:29:00,177 - BaseTest -INFO - Password entered
+ 2019-06-18 01:29:10,942 - BaseTest -INFO - login pass
+ 2019-06-18 01:35:50,471 - BaseTest -INFO - Browser opened
+ 2019-06-18 01:35:56,422 - BaseTest -INFO - Username entered
+ 2019-06-18 01:35:56,540 - BaseTest -INFO - Password entered
+ 2019-06-18 01:36:07,639 - BaseTest -WARN - login failed
+ 2019-06-18 01:36:22,329 - BaseTest -INFO - Browser opened
+ 2019-06-18 01:36:26,160 - BaseTest -INFO - Username entered
+ 2019-06-18 01:36:26,263 - BaseTest -INFO - Password entered
+ 2019-06-18 01:36:35,806 - BaseTest -WARN - login failed
+ 2019-06-18 01:36:46,942 - BaseTest -INFO - Browser opened
+ 2019-06-18 01:36:50,632 - BaseTest -INFO - Username entered
+ 2019-06-18 01:36:50,752 - BaseTest -INFO - Password entered
+ 2019-06-18 01:36:59,897 - BaseTest -INFO - login pass
+ 2019-06-18 23:38:23,035 - BaseTest -INFO - username entered
+ 2019-06-18 23:38:23,292 - BaseTest -INFO - password entered
+ 2019-06-18 23:38:27,697 - BaseTest -INFO - submit button clicked
+ 2019-06-18 23:38:34,582 - BaseTest -INFO - new Customer link clicked
+ 2019-06-18 23:38:34,757 - BaseTest -INFO - Customer name entered
+ 2019-06-18 23:38:34,857 - BaseTest -INFO - Customer gender selected
+ 2019-06-18 23:38:35,181 - BaseTest -INFO - DOB entered
+ 2019-06-18 23:38:35,277 - BaseTest -INFO - address entered
+ 2019-06-18 23:38:35,429 - BaseTest -INFO - city name entered
+ 2019-06-18 23:38:35,537 - BaseTest -INFO - state name entered
+ 2019-06-18 23:38:35,669 - BaseTest -INFO - pin entered
+ 2019-06-18 23:38:35,855 - BaseTest -INFO - mobile number entered
+ 2019-06-18 23:38:36,083 - BaseTest -INFO - email entered
+ 2019-06-18 23:38:36,175 - BaseTest -INFO - password entered
+ 2019-06-18 23:38:36,267 - BaseTest -INFO - submit button clicked
+ 2019-06-19 00:07:32,194 - BaseTest -INFO - username entered
+ 2019-06-19 00:07:32,321 - BaseTest -INFO - password entered
+ 2019-06-19 00:07:35,725 - BaseTest -INFO - submit button clicked
+ 2019-06-19 00:07:42,506 - BaseTest -INFO - new Customer link clicked
+ 2019-06-19 00:07:42,654 - BaseTest -INFO - Customer name entered
+ 2019-06-19 00:07:42,750 - BaseTest -INFO - Customer gender selected
+ 2019-06-19 00:07:43,054 - BaseTest -INFO - DOB entered
+ 2019-06-19 00:07:43,154 - BaseTest -INFO - address entered
+ 2019-06-19 00:07:43,306 - BaseTest -INFO - city name entered
+ 2019-06-19 00:07:43,414 - BaseTest -INFO - state name entered
+ 2019-06-19 00:07:43,562 - BaseTest -INFO - pin entered
+ 2019-06-19 00:07:43,745 - BaseTest -INFO - mobile number entered
+ 2019-06-19 00:07:43,977 - BaseTest -INFO - email entered
+ 2019-06-19 00:07:44,073 - BaseTest -INFO - password entered
+ 2019-06-19 00:07:57,801 - BaseTest -INFO - submit button clicked
+ 2019-06-19 00:08:00,835 - BaseTest -INFO - Test pass
+ 2019-06-19 00:14:51,505 - BaseTest -INFO - username entered
+ 2019-06-19 00:14:51,753 - BaseTest -INFO - password entered
+ 2019-06-19 00:15:03,459 - BaseTest -INFO - submit button clicked
+ 2019-06-19 00:15:10,746 - BaseTest -INFO - new Customer link clicked
+ 2019-06-19 00:15:10,921 - BaseTest -INFO - Customer name entered
+ 2019-06-19 00:15:11,017 - BaseTest -INFO - Customer gender selected
+ 2019-06-19 00:15:11,385 - BaseTest -INFO - DOB entered
+ 2019-06-19 00:15:11,485 - BaseTest -INFO - address entered
+ 2019-06-19 00:15:11,657 - BaseTest -INFO - city name entered
+ 2019-06-19 00:15:11,773 - BaseTest -INFO - state name entered
+ 2019-06-19 00:15:11,908 - BaseTest -INFO - pin entered
+ 2019-06-19 00:15:12,096 - BaseTest -INFO - mobile number entered
+ 2019-06-19 00:15:12,344 - BaseTest -INFO - email entered
+ 2019-06-19 00:15:12,440 - BaseTest -INFO - password entered
+ 2019-06-19 00:15:13,776 - BaseTest -INFO - submit button clicked
+ 2019-06-19 19:36:31,586 - BaseTest -INFO - Browser opened
+ 2019-06-19 19:36:36,731 - BaseTest -INFO - Username entered
+ 2019-06-19 19:36:41,895 - BaseTest -INFO - Password entered
+ 2019-06-19 19:36:46,849 - BaseTest -INFO - logintest is passed
+ 2019-06-19 19:37:05,766 - BaseTest -INFO - username entered
+ 2019-06-19 19:37:05,885 - BaseTest -INFO - password entered
+ 2019-06-19 19:37:09,553 - BaseTest -INFO - submit button clicked
+ 2019-06-19 19:37:16,169 - BaseTest -INFO - new Customer link clicked
+ 2019-06-19 19:37:16,307 - BaseTest -INFO - Customer name entered
+ 2019-06-19 19:37:16,408 - BaseTest -INFO - Customer gender selected
+ 2019-06-19 19:37:16,768 - BaseTest -INFO - DOB entered
+ 2019-06-19 19:37:16,865 - BaseTest -INFO - address entered
+ 2019-06-19 19:37:17,001 - BaseTest -INFO - city name entered
+ 2019-06-19 19:37:17,108 - BaseTest -INFO - state name entered
+ 2019-06-19 19:37:17,235 - BaseTest -INFO - pin entered
+ 2019-06-19 19:37:17,437 - BaseTest -INFO - mobile number entered
+ 2019-06-19 19:37:17,643 - BaseTest -INFO - email entered
+ 2019-06-19 19:37:17,730 - BaseTest -INFO - password entered
+ 2019-06-19 19:37:18,515 - BaseTest -INFO - submit button clicked
+ 2019-06-19 19:47:56,118 - BaseTest -INFO - Browser opened
+ 2019-06-19 19:47:58,450 - BaseTest -INFO - Username entered
+ 2019-06-19 19:48:03,576 - BaseTest -INFO - Password entered
+ 2019-06-19 19:48:06,450 - BaseTest -INFO - logintest is passed
+ 2019-06-19 19:48:17,153 - BaseTest -INFO - username entered
+ 2019-06-19 19:48:17,270 - BaseTest -INFO - password entered
+ 2019-06-19 19:48:19,368 - BaseTest -INFO - submit button clicked
+ 2019-06-19 19:48:24,483 - BaseTest -INFO - new Customer link clicked
+ 2019-06-19 19:48:24,622 - BaseTest -INFO - Customer name entered
+ 2019-06-19 19:48:24,711 - BaseTest -INFO - Customer gender selected
+ 2019-06-19 19:48:25,046 - BaseTest -INFO - DOB entered
+ 2019-06-19 19:48:25,142 - BaseTest -INFO - address entered
+ 2019-06-19 19:48:25,273 - BaseTest -INFO - city name entered
+ 2019-06-19 19:48:25,415 - BaseTest -INFO - state name entered
+ 2019-06-19 19:48:25,542 - BaseTest -INFO - pin entered
+ 2019-06-19 19:48:25,713 - BaseTest -INFO - mobile number entered
+ 2019-06-19 19:48:25,927 - BaseTest -INFO - email entered
+ 2019-06-19 19:48:26,019 - BaseTest -INFO - password entered
+ 2019-06-19 19:48:26,452 - BaseTest -INFO - submit button clicked
+ 2019-06-19 19:49:37,236 - BaseTest -INFO - Browser opened
+ 2019-06-19 19:49:38,022 - BaseTest -INFO - Username entered
+ 2019-06-19 19:49:43,130 - BaseTest -INFO - Password entered
+ 2019-06-19 19:49:46,169 - BaseTest -INFO - logintest is passed
+ 2019-06-19 19:49:54,870 - BaseTest -INFO - username entered
+ 2019-06-19 19:49:54,995 - BaseTest -INFO - password entered
+ 2019-06-19 19:50:00,496 - BaseTest -INFO - submit button clicked
+ 2019-06-19 19:50:06,836 - BaseTest -INFO - new Customer link clicked
+ 2019-06-19 19:50:06,972 - BaseTest -INFO - Customer name entered
+ 2019-06-19 19:50:07,060 - BaseTest -INFO - Customer gender selected
+ 2019-06-19 19:50:07,362 - BaseTest -INFO - DOB entered
+ 2019-06-19 19:50:07,462 - BaseTest -INFO - address entered
+ 2019-06-19 19:50:07,595 - BaseTest -INFO - city name entered
+ 2019-06-19 19:50:07,697 - BaseTest -INFO - state name entered
+ 2019-06-19 19:50:07,853 - BaseTest -INFO - pin entered
+ 2019-06-19 19:50:08,021 - BaseTest -INFO - mobile number entered
+ 2019-06-19 19:50:08,225 - BaseTest -INFO - email entered
+ 2019-06-19 19:50:08,308 - BaseTest -INFO - password entered
+ 2019-06-19 19:50:08,754 - BaseTest -INFO - submit button clicked
+ 2019-06-19 22:36:14,907 - BaseTest -INFO - Browser opened
+ 2019-06-19 22:36:29,242 - BaseTest -INFO - Username entered
+ 2019-06-19 22:36:34,379 - BaseTest -INFO - Password entered
+ 2019-06-19 22:36:49,578 - BaseTest -INFO - logintest is passed
+ 2019-06-19 22:38:12,436 - BaseTest -INFO - username entered
+ 2019-06-19 22:38:12,582 - BaseTest -INFO - password entered
+ 2019-06-19 22:38:17,987 - BaseTest -INFO - submit button clicked
+ 2019-06-19 22:39:37,784 - BaseTest -INFO - new Customer link clicked
+ 2019-06-19 22:39:38,064 - BaseTest -INFO - Customer name entered
+ 2019-06-19 22:39:38,207 - BaseTest -INFO - Customer gender selected
+ 2019-06-19 22:39:38,553 - BaseTest -INFO - DOB entered
+ 2019-06-19 22:39:38,651 - BaseTest -INFO - address entered
+ 2019-06-19 22:39:38,799 - BaseTest -INFO - city name entered
+ 2019-06-19 22:39:38,905 - BaseTest -INFO - state name entered
+ 2019-06-19 22:39:39,045 - BaseTest -INFO - pin entered
+ 2019-06-19 22:39:39,255 - BaseTest -INFO - mobile number entered
+ 2019-06-19 22:39:39,493 - BaseTest -INFO - email entered
+ 2019-06-19 22:39:39,607 - BaseTest -INFO - password entered
+ 2019-06-19 22:39:40,405 - BaseTest -INFO - submit button clicked
+ 2019-06-19 22:55:08,872 - BaseTest -INFO - Browser opened
+ 2019-06-19 22:55:18,309 - BaseTest -INFO - Username entered
+ 2019-06-19 22:55:23,521 - BaseTest -INFO - Password entered
+ 2019-06-19 22:55:28,922 - BaseTest -INFO - logintest is passed
+ 2019-06-19 22:55:49,480 - BaseTest -INFO - username entered
+ 2019-06-19 22:55:49,620 - BaseTest -INFO - password entered
+ 2019-06-19 22:55:53,338 - BaseTest -INFO - submit button clicked
+ 2019-06-19 22:56:02,879 - BaseTest -INFO - new Customer link clicked
+ 2019-06-19 22:56:03,151 - BaseTest -INFO - Customer name entered
+ 2019-06-19 22:56:03,247 - BaseTest -INFO - Customer gender selected
+ 2019-06-19 22:56:04,460 - BaseTest -INFO - DOB entered
+ 2019-06-19 22:56:04,946 - BaseTest -INFO - address entered
+ 2019-06-19 22:56:05,131 - BaseTest -INFO - city name entered
+ 2019-06-19 22:56:05,287 - BaseTest -INFO - state name entered
+ 2019-06-19 22:56:05,419 - BaseTest -INFO - pin entered
+ 2019-06-19 22:56:05,640 - BaseTest -INFO - mobile number entered
+ 2019-06-19 22:56:05,909 - BaseTest -INFO - email entered
+ 2019-06-19 22:56:06,017 - BaseTest -INFO - password entered
+ 2019-06-19 22:56:07,940 - BaseTest -INFO - submit button clicked
+ 2019-06-20 02:02:28,991 - BaseTest -INFO - Browser opened
+ 2019-06-20 02:02:36,524 - BaseTest -INFO - Username entered
+ 2019-06-20 02:02:41,628 - BaseTest -INFO - Password entered
+ 2019-06-20 02:02:48,764 - BaseTest -INFO - logintest is passed
+ 2019-06-20 02:03:40,055 - BaseTest -INFO - username entered
+ 2019-06-20 02:03:40,155 - BaseTest -INFO - password entered
+ 2019-06-20 02:03:44,123 - BaseTest -INFO - submit button clicked
+ 2019-06-20 02:03:50,647 - BaseTest -INFO - new Customer link clicked
+ 2019-06-20 02:03:50,763 - BaseTest -INFO - Customer name entered
+ 2019-06-20 02:03:50,868 - BaseTest -INFO - Customer gender selected
+ 2019-06-20 02:03:51,193 - BaseTest -INFO - DOB entered
+ 2019-06-20 02:03:51,281 - BaseTest -INFO - address entered
+ 2019-06-20 02:03:51,413 - BaseTest -INFO - city name entered
+ 2019-06-20 02:03:51,509 - BaseTest -INFO - state name entered
+ 2019-06-20 02:03:51,623 - BaseTest -INFO - pin entered
+ 2019-06-20 02:03:51,807 - BaseTest -INFO - mobile number entered
+ 2019-06-20 02:03:52,008 - BaseTest -INFO - email entered
+ 2019-06-20 02:03:52,087 - BaseTest -INFO - password entered
+ 2019-06-20 02:03:52,605 - BaseTest -INFO - submit button clicked
+ 2019-06-20 02:18:32,504 - BaseTest -INFO - Browser opened
+ 2019-06-20 02:18:38,030 - BaseTest -INFO - Username entered
+ 2019-06-20 02:18:43,470 - BaseTest -INFO - Password entered
+ 2019-06-20 02:18:53,801 - BaseTest -INFO - logintest is passed
+ 2019-06-20 02:19:48,083 - BaseTest -INFO - username entered
+ 2019-06-20 02:19:48,238 - BaseTest -INFO - password entered
+ 2019-06-20 02:19:53,173 - BaseTest -INFO - submit button clicked
+ 2019-06-20 02:20:01,565 - BaseTest -INFO - new Customer link clicked
+ 2019-06-20 02:20:02,279 - BaseTest -INFO - Customer name entered
+ 2019-06-20 02:20:02,360 - BaseTest -INFO - Customer gender selected
+ 2019-06-20 02:20:02,767 - BaseTest -INFO - DOB entered
+ 2019-06-20 02:20:02,856 - BaseTest -INFO - address entered
+ 2019-06-20 02:20:02,994 - BaseTest -INFO - city name entered
+ 2019-06-20 02:20:03,087 - BaseTest -INFO - state name entered
+ 2019-06-20 02:20:03,200 - BaseTest -INFO - pin entered
+ 2019-06-20 02:20:03,364 - BaseTest -INFO - mobile number entered
+ 2019-06-20 02:20:03,604 - BaseTest -INFO - email entered
+ 2019-06-20 02:20:03,693 - BaseTest -INFO - password entered
+ 2019-06-20 02:20:09,976 - BaseTest -INFO - submit button clicked
+ 2019-06-20 02:20:13,186 - BaseTest -INFO - Test pass
+ 2019-06-21 20:53:10,915 - BaseTest -INFO - Browser opened
+ 2019-06-21 20:53:27,539 - BaseTest -INFO - Username entered
+ 2019-06-21 20:53:32,670 - BaseTest -INFO - Password entered
+ 2019-06-21 20:53:36,325 - BaseTest -INFO - logintest is passed
+ 2019-06-21 20:53:54,537 - BaseTest -INFO - username entered
+ 2019-06-21 20:53:54,654 - BaseTest -INFO - password entered
+ 2019-06-21 20:53:57,260 - BaseTest -INFO - submit button clicked
+ 2019-06-21 20:54:06,550 - BaseTest -INFO - new Customer link clicked
+ 2019-06-21 20:54:06,670 - BaseTest -INFO - Customer name entered
+ 2019-06-21 20:54:06,756 - BaseTest -INFO - Customer gender selected
+ 2019-06-21 20:54:07,065 - BaseTest -INFO - DOB entered
+ 2019-06-21 20:54:07,154 - BaseTest -INFO - address entered
+ 2019-06-21 20:54:07,262 - BaseTest -INFO - city name entered
+ 2019-06-21 20:54:07,361 - BaseTest -INFO - state name entered
+ 2019-06-21 20:54:07,480 - BaseTest -INFO - pin entered
+ 2019-06-21 20:54:07,665 - BaseTest -INFO - mobile number entered
+ 2019-06-21 20:54:07,940 - BaseTest -INFO - email entered
+ 2019-06-21 20:54:08,052 - BaseTest -INFO - password entered
+ 2019-06-21 20:54:14,036 - BaseTest -INFO - submit button clicked
+ 2019-06-21 20:54:17,066 - BaseTest -INFO - Test pass
+ 
