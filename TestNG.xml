@@ -8,7 +8,9 @@
       <test name="ChromeTest">
            <parameter name="BROWSER" value="chrome"></parameter>
           <classes>
-              <class name="com.InetBanking.testCase.TC_LoginTest"/>
+              <class name="com.InetBanking.tests.LoginTest"/>
+              <class name="com.InetBanking.tests.HomePageTest"/>
+              <class name="com.InetBanking.tests.CreateContactTest"/>
           </classes>
       </test>
       
