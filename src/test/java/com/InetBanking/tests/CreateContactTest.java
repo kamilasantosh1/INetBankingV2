@@ -14,8 +14,8 @@ import com.InetBanking.pages.HomePage;
 import com.InetBanking.pages.LoginPage;
 import com.InetBanking.pages.ProfilePage;
 
-import generic.BaseTest;
-import generic.lib;
+import com.InetBanking.Generic.BaseTest;
+import com.InetBanking.Generic.lib;
 
 public class CreateContactTest extends BaseTest{
 HomePage home;

@@ -13,9 +13,8 @@ import org.testng.annotations.Test;
 import com.InetBanking.pages.HomePage;
 import com.InetBanking.pages.LoginPage;
 
-import generic.BaseTest;
-import generic.lib;
-
+import com.InetBanking.Generic.BaseTest;
+import com.InetBanking.Generic.lib;
 public class LoginTest extends BaseTest {
 	public LoginTest() {
 		super();

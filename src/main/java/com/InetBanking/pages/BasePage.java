@@ -3,7 +3,7 @@ package com.InetBanking.pages;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import generic.BaseTest;
+import com.InetBanking.Generic.BaseTest;
 
 public class BasePage extends BaseTest {
 	
