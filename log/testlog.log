@@ -442,4 +442,420 @@
  2019-06-21 20:54:08,052 - BaseTest -INFO - password entered
  2019-06-21 20:54:14,036 - BaseTest -INFO - submit button clicked
  2019-06-21 20:54:17,066 - BaseTest -INFO - Test pass
+ 2019-06-22 02:51:09,941 - BaseTest -INFO - Browser opened
+ 2019-06-22 02:51:18,368 - BaseTest -INFO - Username entered
+ 2019-06-22 02:51:23,504 - BaseTest -INFO - Password entered
+ 2019-06-22 02:51:27,687 - BaseTest -INFO - logintest is passed
+ 2019-06-22 02:51:41,067 - BaseTest -INFO - username entered
+ 2019-06-22 02:51:41,174 - BaseTest -INFO - password entered
+ 2019-06-22 02:51:45,024 - BaseTest -INFO - submit button clicked
+ 2019-06-22 02:51:49,973 - BaseTest -INFO - new Customer link clicked
+ 2019-06-22 02:51:50,089 - BaseTest -INFO - Customer name entered
+ 2019-06-22 02:51:50,169 - BaseTest -INFO - Customer gender selected
+ 2019-06-22 02:51:50,567 - BaseTest -INFO - DOB entered
+ 2019-06-22 02:51:50,653 - BaseTest -INFO - address entered
+ 2019-06-22 02:51:50,762 - BaseTest -INFO - city name entered
+ 2019-06-22 02:51:50,860 - BaseTest -INFO - state name entered
+ 2019-06-22 02:51:50,983 - BaseTest -INFO - pin entered
+ 2019-06-22 02:51:51,143 - BaseTest -INFO - mobile number entered
+ 2019-06-22 02:51:51,383 - BaseTest -INFO - email entered
+ 2019-06-22 02:51:51,466 - BaseTest -INFO - password entered
+ 2019-06-22 02:51:55,238 - BaseTest -INFO - submit button clicked
+ 2019-06-22 02:51:58,276 - BaseTest -INFO - Test pass
+ 2019-07-07 17:05:03,435 - BaseTest -INFO - Browser opened
+ 2019-07-07 17:05:13,916 - BaseTest -INFO - Username entered
+ 2019-07-07 17:08:56,814 - BaseTest -INFO - username entered
+ 2019-07-07 17:08:57,341 - BaseTest -INFO - password entered
+ 2019-07-07 17:09:06,017 - BaseTest -INFO - login botton clicked
+ 2019-07-07 17:11:59,428 - BaseTest -INFO - username entered
+ 2019-07-07 17:11:59,755 - BaseTest -INFO - password entered
+ 2019-07-07 17:12:05,445 - BaseTest -INFO - login botton clicked
+ 2019-07-07 17:17:41,668 - BaseTest -INFO - username entered
+ 2019-07-07 17:17:41,895 - BaseTest -INFO - password entered
+ 2019-07-07 17:17:50,012 - BaseTest -INFO - login botton clicked
+ 2019-07-07 17:19:06,685 - BaseTest -INFO - username entered
+ 2019-07-07 17:19:06,838 - BaseTest -INFO - password entered
+ 2019-07-07 17:19:16,078 - BaseTest -INFO - login botton clicked
+ 2019-07-07 17:22:35,579 - BaseTest -INFO - username entered
+ 2019-07-07 17:22:35,790 - BaseTest -INFO - password entered
+ 2019-07-07 17:22:48,819 - BaseTest -INFO - login botton clicked
+ 2019-07-07 17:28:24,870 - BaseTest -INFO - username entered
+ 2019-07-07 17:28:25,041 - BaseTest -INFO - password entered
+ 2019-07-07 17:28:27,770 - BaseTest -INFO - login botton clicked
+ 2019-07-07 17:29:54,292 - BaseTest -INFO - username entered
+ 2019-07-07 17:29:54,402 - BaseTest -INFO - password entered
+ 2019-07-07 17:29:56,434 - BaseTest -INFO - login botton clicked
+ 2019-07-07 17:32:45,138 - BaseTest -INFO - username entered
+ 2019-07-07 17:32:45,526 - BaseTest -INFO - password entered
+ 2019-07-07 17:32:55,531 - BaseTest -INFO - login botton clicked
+ 2019-07-07 17:32:58,200 - BaseTest -INFO - mouseover on admin link
+ 2019-07-07 17:32:58,318 - BaseTest -INFO - mouseover on UserManagmentLink 
+ 2019-07-07 17:32:58,926 - BaseTest -INFO - users link clicked
+ 2019-07-07 17:32:59,007 - BaseTest -INFO - number of table row identified
+ 2019-07-07 17:32:59,033 - BaseTest -INFO - number of column identified
+ 2019-07-07 17:36:26,431 - BaseTest -INFO - username entered
+ 2019-07-07 17:36:26,533 - BaseTest -INFO - password entered
+ 2019-07-07 17:36:29,296 - BaseTest -INFO - login botton clicked
+ 2019-07-07 17:36:34,446 - BaseTest -INFO - mouseover on admin link
+ 2019-07-07 17:36:34,559 - BaseTest -INFO - mouseover on UserManagmentLink 
+ 2019-07-07 17:36:35,173 - BaseTest -INFO - users link clicked
+ 2019-07-07 17:36:35,293 - BaseTest -INFO - number of table row identified
+ 2019-07-07 17:36:35,320 - BaseTest -INFO - number of column identified
+ 2019-07-07 17:40:13,081 - BaseTest -INFO - username entered
+ 2019-07-07 17:40:13,219 - BaseTest -INFO - password entered
+ 2019-07-07 17:40:18,820 - BaseTest -INFO - login botton clicked
+ 2019-07-07 17:40:20,368 - BaseTest -INFO - mouseover on admin link
+ 2019-07-07 17:40:20,482 - BaseTest -INFO - mouseover on UserManagmentLink 
+ 2019-07-07 17:40:21,086 - BaseTest -INFO - users link clicked
+ 2019-07-07 17:40:21,121 - BaseTest -INFO - number of table row identified
+ 2019-07-07 17:40:21,146 - BaseTest -INFO - number of column identified
+ 2019-07-07 17:43:13,028 - BaseTest -INFO - username entered
+ 2019-07-07 17:43:13,150 - BaseTest -INFO - password entered
+ 2019-07-07 17:43:15,183 - BaseTest -INFO - login botton clicked
+ 2019-07-07 17:43:18,923 - BaseTest -INFO - mouseover on admin link
+ 2019-07-07 17:43:19,051 - BaseTest -INFO - mouseover on UserManagmentLink 
+ 2019-07-07 17:43:19,676 - BaseTest -INFO - users link clicked
+ 2019-07-07 17:43:19,713 - BaseTest -INFO - number of table row identified
+ 2019-07-07 17:43:19,738 - BaseTest -INFO - number of column identified
+ 2019-07-07 17:50:36,122 - BaseTest -INFO - username entered
+ 2019-07-07 17:50:36,274 - BaseTest -INFO - password entered
+ 2019-07-07 17:50:40,821 - BaseTest -INFO - login botton clicked
+ 2019-07-07 17:50:42,820 - BaseTest -INFO - mouseover on admin link
+ 2019-07-07 17:50:42,931 - BaseTest -INFO - mouseover on UserManagmentLink 
+ 2019-07-07 17:50:43,530 - BaseTest -INFO - users link clicked
+ 2019-07-07 17:50:43,583 - BaseTest -INFO - number of table row identified
+ 2019-07-07 17:50:43,611 - BaseTest -INFO - number of column identified
+ 2019-07-07 17:56:29,466 - BaseTest -INFO - username entered
+ 2019-07-07 17:56:29,569 - BaseTest -INFO - password entered
+ 2019-07-07 17:56:31,606 - BaseTest -INFO - login botton clicked
+ 2019-07-07 17:56:35,377 - BaseTest -INFO - mouseover on admin link
+ 2019-07-07 17:56:35,493 - BaseTest -INFO - mouseover on UserManagmentLink 
+ 2019-07-07 17:56:36,103 - BaseTest -INFO - users link clicked
+ 2019-07-07 17:56:36,147 - BaseTest -INFO - number of table row identified
+ 2019-07-07 17:56:36,175 - BaseTest -INFO - number of column identified
+ 2019-07-07 17:57:52,684 - BaseTest -INFO - username entered
+ 2019-07-07 17:57:52,806 - BaseTest -INFO - password entered
+ 2019-07-07 17:57:55,003 - BaseTest -INFO - login botton clicked
+ 2019-07-07 17:57:58,476 - BaseTest -INFO - mouseover on admin link
+ 2019-07-07 17:57:58,592 - BaseTest -INFO - mouseover on UserManagmentLink 
+ 2019-07-07 17:57:59,148 - BaseTest -INFO - users link clicked
+ 2019-07-07 17:58:02,198 - BaseTest -INFO - number of table row identified
+ 2019-07-07 17:58:02,224 - BaseTest -INFO - number of column identified
+ 2019-09-27 21:47:09,338 - BaseTest -INFO - Browser opened
+ 2019-09-27 23:51:43,100 - BaseTest -INFO - Browser opened
+ 2019-09-27 23:52:52,463 - BaseTest -INFO - Browser opened
+ 2019-10-01 12:08:27,246 - BaseTest -INFO - username entered
+ 2019-10-01 12:08:27,388 - BaseTest -INFO - password entered
+ 2019-10-01 12:08:29,311 - BaseTest -INFO - login botton clicked
+ 2019-10-01 12:08:32,052 - BaseTest -INFO - mouseover on admin link
+ 2019-10-01 12:08:32,191 - BaseTest -INFO - mouseover on UserManagmentLink 
+ 2019-10-01 12:08:32,871 - BaseTest -INFO - users link clicked
+ 2019-10-01 12:08:35,974 - BaseTest -INFO - number of table row identified
+ 2019-10-01 12:08:36,024 - BaseTest -INFO - number of column identified
+ 2019-10-01 12:15:16,804 - BaseTest -INFO - username entered
+ 2019-10-01 12:15:16,973 - BaseTest -INFO - password entered
+ 2019-10-01 12:15:21,607 - BaseTest -INFO - login botton clicked
+ 2019-10-01 12:15:23,392 - BaseTest -INFO - mouseover on admin link
+ 2019-10-01 12:15:23,541 - BaseTest -INFO - mouseover on UserManagmentLink 
+ 2019-10-01 12:15:24,266 - BaseTest -INFO - users link clicked
+ 2019-10-01 12:15:27,336 - BaseTest -INFO - number of table row identified
+ 2019-10-01 12:15:27,410 - BaseTest -INFO - number of column identified
+ 2019-10-02 00:15:05,224 - BaseTest -INFO - username entered
+ 2019-10-02 00:15:05,429 - BaseTest -INFO - password entered
+ 2019-10-02 00:15:06,741 - BaseTest -INFO - login button clicked
+ 2019-10-02 00:16:05,630 - BaseTest -INFO - username entered
+ 2019-10-02 00:16:05,769 - BaseTest -INFO - password entered
+ 2019-10-02 00:16:09,346 - BaseTest -INFO - login button clicked
+ 2019-10-02 00:16:09,630 - BaseTest -INFO - mouseoverin pimlink
+ 2019-10-02 00:16:10,935 - BaseTest -INFO - employeelist link clicked
+ 2019-10-02 11:44:48,760 - BaseTest -INFO - uername entered
+ 2019-10-02 11:44:49,048 - BaseTest -INFO - password entered
+ 2019-10-02 11:44:50,132 - BaseTest -INFO - login button clicked
+ 2019-10-02 11:46:35,256 - BaseTest -INFO - uername entered
+ 2019-10-02 11:46:35,478 - BaseTest -INFO - password entered
+ 2019-10-02 11:46:42,749 - BaseTest -INFO - login button clicked
+ 2019-10-02 11:47:47,816 - BaseTest -INFO - uername entered
+ 2019-10-02 11:47:47,943 - BaseTest -INFO - password entered
+ 2019-10-02 11:47:50,255 - BaseTest -INFO - login button clicked
+ 2019-10-02 11:47:52,220 - BaseTest -INFO - mouseover on pim link
+ 2019-10-02 11:47:53,697 - BaseTest -INFO - emplist linked clicked
+ 2019-10-02 11:47:55,053 - BaseTest -INFO - empname clicked
+ 2019-10-02 11:49:38,236 - BaseTest -INFO - uername entered
+ 2019-10-02 11:49:38,358 - BaseTest -INFO - password entered
+ 2019-10-02 11:49:42,480 - BaseTest -INFO - login button clicked
+ 2019-10-02 11:49:42,728 - BaseTest -INFO - mouseover on pim link
+ 2019-10-02 11:49:44,252 - BaseTest -INFO - emplist linked clicked
+ 2019-10-02 11:49:45,939 - BaseTest -INFO - empname clicked
+ 2019-10-02 11:49:46,091 - BaseTest -INFO - User able to view personal details
+ 2019-10-10 20:52:39,282 - BaseTest -INFO - Browser opened
+ 2019-10-15 11:22:10,231 - BaseTest -INFO - initialization of brower
+ 2019-10-15 11:22:13,329 - BaseTest -INFO - Cogmento CRM :  login page  title 
+ 2019-10-15 11:22:22,326 - BaseTest -INFO - initialization of brower
+ 2019-10-15 11:22:23,156 - BaseTest -INFO - login completed
+ 2019-10-15 11:22:25,969 - BaseTest -INFO - header found
+ 2019-10-15 13:14:20,673 - BaseTest -INFO - browser open
+ 2019-10-15 13:14:21,834 - BaseTest -INFO - login done
+ 2019-10-15 13:14:42,021 - BaseTest -INFO - browser open
+ 2019-10-15 13:14:42,553 - BaseTest -INFO - login done
+ 2019-10-15 13:16:32,116 - BaseTest -INFO - browser open
+ 2019-10-15 13:16:32,807 - BaseTest -INFO - login done
+ 2019-10-15 13:16:46,326 - BaseTest -INFO - browser open
+ 2019-10-15 13:16:46,896 - BaseTest -INFO - login done
+ 2019-10-15 13:16:49,540 - BaseTest -INFO - 
+ 2019-10-15 13:16:49,568 - BaseTest -INFO - 
+ 2019-10-15 13:16:49,591 - BaseTest -INFO - 
+ 2019-10-15 13:16:49,613 - BaseTest -INFO - 
+ 2019-10-15 13:16:49,635 - BaseTest -INFO - 
+ 2019-10-15 13:16:49,654 - BaseTest -INFO - 
+ 2019-10-15 13:16:49,677 - BaseTest -INFO - 
+ 2019-10-15 13:16:49,696 - BaseTest -INFO - 
+ 2019-10-15 13:16:49,729 - BaseTest -INFO - 
+ 2019-10-15 13:16:49,751 - BaseTest -INFO - 
+ 2019-10-15 13:16:49,770 - BaseTest -INFO - 
+ 2019-10-15 13:16:49,791 - BaseTest -INFO - 
+ 2019-10-15 13:23:46,003 - BaseTest -INFO - browser open
+ 2019-10-15 13:23:46,624 - BaseTest -INFO - login done
+ 2019-10-15 13:24:03,113 - BaseTest -INFO - browser open
+ 2019-10-15 13:24:03,698 - BaseTest -INFO - login done
+ 2019-10-15 13:24:04,907 - BaseTest -INFO - 
+ 2019-10-15 13:24:05,772 - BaseTest -INFO - 
+ 2019-10-15 13:24:05,825 - BaseTest -INFO - 
+ 2019-10-15 13:24:05,853 - BaseTest -INFO - 
+ 2019-10-15 13:24:05,877 - BaseTest -INFO - 
+ 2019-10-15 13:24:05,897 - BaseTest -INFO - 
+ 2019-10-15 13:24:05,925 - BaseTest -INFO - 
+ 2019-10-15 13:24:05,945 - BaseTest -INFO - 
+ 2019-10-15 13:24:06,213 - BaseTest -INFO - 
+ 2019-10-15 13:24:06,231 - BaseTest -INFO - 
+ 2019-10-15 13:24:06,251 - BaseTest -INFO - 
+ 2019-10-15 13:24:06,283 - BaseTest -INFO - 
+ 2019-10-15 13:25:53,060 - BaseTest -INFO - browser open
+ 2019-10-15 13:25:53,656 - BaseTest -INFO - login done
+ 2019-10-15 13:26:05,250 - BaseTest -INFO - browser open
+ 2019-10-15 13:26:05,835 - BaseTest -INFO - login done
+ 2019-10-15 13:26:06,803 - BaseTest -INFO - 
+ 2019-10-15 13:26:06,848 - BaseTest -INFO - 
+ 2019-10-15 13:26:06,877 - BaseTest -INFO - 
+ 2019-10-15 13:26:06,900 - BaseTest -INFO - 
+ 2019-10-15 13:26:06,932 - BaseTest -INFO - 
+ 2019-10-15 13:26:06,962 - BaseTest -INFO - 
+ 2019-10-15 13:26:06,999 - BaseTest -INFO - 
+ 2019-10-15 13:26:07,041 - BaseTest -INFO - 
+ 2019-10-15 13:26:07,076 - BaseTest -INFO - 
+ 2019-10-15 13:26:07,108 - BaseTest -INFO - 
+ 2019-10-15 13:26:07,127 - BaseTest -INFO - 
+ 2019-10-15 13:26:07,158 - BaseTest -INFO - 
+ 2019-10-15 13:30:46,975 - BaseTest -INFO - browser open
+ 2019-10-15 13:30:47,631 - BaseTest -INFO - login done
+ 2019-10-15 13:31:02,754 - BaseTest -INFO - browser open
+ 2019-10-15 13:31:03,262 - BaseTest -INFO - login done
+ 2019-10-15 13:31:04,860 - BaseTest -INFO - 
+ 2019-10-15 13:31:04,887 - BaseTest -INFO - 
+ 2019-10-15 13:31:05,700 - BaseTest -INFO - 
+ 2019-10-15 13:31:05,721 - BaseTest -INFO - 
+ 2019-10-15 13:31:05,743 - BaseTest -INFO - 
+ 2019-10-15 13:31:05,778 - BaseTest -INFO - 
+ 2019-10-15 13:31:05,799 - BaseTest -INFO - 
+ 2019-10-15 13:31:05,819 - BaseTest -INFO - 
+ 2019-10-15 13:31:05,848 - BaseTest -INFO - 
+ 2019-10-15 13:31:05,884 - BaseTest -INFO - 
+ 2019-10-15 13:31:05,909 - BaseTest -INFO - 
+ 2019-10-15 13:31:05,925 - BaseTest -INFO - 
+ 2019-10-15 13:34:23,417 - BaseTest -INFO - browser open
+ 2019-10-15 13:34:24,084 - BaseTest -INFO - login done
+ 2019-10-15 13:34:35,247 - BaseTest -INFO - browser open
+ 2019-10-15 13:34:35,804 - BaseTest -INFO - login done
+ 2019-10-15 13:34:39,333 - BaseTest -INFO - https://ui.cogmento.com/home
+ 2019-10-15 13:34:39,435 - BaseTest -INFO - https://ui.cogmento.com/calendar
+ 2019-10-15 13:34:39,466 - BaseTest -INFO - https://ui.cogmento.com/contacts
+ 2019-10-15 13:34:39,492 - BaseTest -INFO - https://ui.cogmento.com/companies
+ 2019-10-15 13:34:39,531 - BaseTest -INFO - https://ui.cogmento.com/deals
+ 2019-10-15 13:34:39,556 - BaseTest -INFO - https://ui.cogmento.com/tasks
+ 2019-10-15 13:34:39,586 - BaseTest -INFO - https://ui.cogmento.com/cases
+ 2019-10-15 13:34:39,630 - BaseTest -INFO - https://ui.cogmento.com/calls
+ 2019-10-15 13:34:39,649 - BaseTest -INFO - https://ui.cogmento.com/documents
+ 2019-10-15 13:34:39,714 - BaseTest -INFO - https://ui.cogmento.com/email
+ 2019-10-15 13:34:39,733 - BaseTest -INFO - https://ui.cogmento.com/campaigns
+ 2019-10-15 13:34:39,757 - BaseTest -INFO - https://ui.cogmento.com/forms
+ 2019-10-15 16:14:10,991 - BaseTest -INFO - browser open
+ 2019-10-15 16:14:11,880 - BaseTest -INFO - login done
+ 2019-10-15 16:14:28,778 - BaseTest -INFO - browser open
+ 2019-10-15 16:14:29,312 - BaseTest -INFO - login done
+ 2019-10-15 16:14:31,411 - BaseTest -INFO - https://ui.cogmento.com/home
+ 2019-10-15 16:14:31,456 - BaseTest -INFO - https://ui.cogmento.com/calendar
+ 2019-10-15 16:14:48,474 - BaseTest -INFO - https://ui.cogmento.com/contacts
+ 2019-10-15 16:14:48,509 - BaseTest -INFO - https://ui.cogmento.com/companies
+ 2019-10-15 16:14:48,541 - BaseTest -INFO - https://ui.cogmento.com/deals
+ 2019-10-15 16:14:48,572 - BaseTest -INFO - https://ui.cogmento.com/tasks
+ 2019-10-15 16:14:48,603 - BaseTest -INFO - https://ui.cogmento.com/cases
+ 2019-10-15 16:14:48,619 - BaseTest -INFO - https://ui.cogmento.com/calls
+ 2019-10-15 16:14:48,650 - BaseTest -INFO - https://ui.cogmento.com/documents
+ 2019-10-15 16:14:48,681 - BaseTest -INFO - https://ui.cogmento.com/email
+ 2019-10-15 16:14:48,713 - BaseTest -INFO - https://ui.cogmento.com/campaigns
+ 2019-10-15 16:14:48,759 - BaseTest -INFO - https://ui.cogmento.com/forms
+ 2019-10-15 16:15:45,972 - BaseTest -INFO - browser open
+ 2019-10-15 16:16:09,157 - BaseTest -INFO - login done
+ 2019-10-15 16:19:13,532 - BaseTest -INFO - browser open
+ 2019-10-15 16:19:17,931 - BaseTest -INFO - login done
+ 2019-10-15 16:20:25,153 - BaseTest -INFO - browser open
+ 2019-10-15 16:20:37,609 - BaseTest -INFO - login done
+ 2019-10-15 17:00:20,412 - BaseTest -INFO - browser open
+ 2019-10-15 17:01:52,710 - BaseTest -INFO - login done
+ 2019-10-15 17:02:20,958 - BaseTest -INFO - browser open
+ 2019-10-15 17:02:21,670 - BaseTest -INFO - login done
+ 2019-10-15 17:02:58,206 - BaseTest -INFO - https://ui.cogmento.com/home
+ 2019-10-15 17:03:47,311 - BaseTest -INFO - https://ui.cogmento.com/calendar
+ 2019-10-15 17:06:00,760 - BaseTest -INFO - https://ui.cogmento.com/contacts
+ 2019-10-15 17:10:50,438 - BaseTest -INFO - browser open
+ 2019-10-15 17:10:51,118 - BaseTest -INFO - login done
+ 2019-10-15 17:11:15,439 - BaseTest -INFO - browser open
+ 2019-10-15 17:11:16,038 - BaseTest -INFO - login done
+ 2019-10-15 17:11:42,896 - BaseTest -INFO - https://ui.cogmento.com/home
+ 2019-10-15 17:13:20,839 - BaseTest -INFO - https://ui.cogmento.com/home - OK
+ 2019-10-15 17:13:55,344 - BaseTest -INFO - https://ui.cogmento.com/calendar
+ 2019-10-15 17:14:29,895 - BaseTest -INFO - https://ui.cogmento.com/calendar - OK
+ 2019-10-15 17:17:33,769 - BaseTest -INFO - browser open
+ 2019-10-15 17:17:34,386 - BaseTest -INFO - login done
+ 2019-10-15 17:17:52,887 - BaseTest -INFO - browser open
+ 2019-10-15 17:17:53,400 - BaseTest -INFO - login done
+ 2019-10-15 17:17:55,821 - BaseTest -INFO - https://ui.cogmento.com/home
+ 2019-10-15 17:18:01,885 - BaseTest -INFO - https://ui.cogmento.com/home - OK
+ 2019-10-15 17:18:01,921 - BaseTest -INFO - https://ui.cogmento.com/calendar
+ 2019-10-15 17:18:02,968 - BaseTest -INFO - https://ui.cogmento.com/calendar - OK
+ 2019-10-15 17:18:03,007 - BaseTest -INFO - https://ui.cogmento.com/contacts
+ 2019-10-15 17:18:04,117 - BaseTest -INFO - https://ui.cogmento.com/contacts - OK
+ 2019-10-15 17:18:04,157 - BaseTest -INFO - https://ui.cogmento.com/companies
+ 2019-10-15 17:18:05,190 - BaseTest -INFO - https://ui.cogmento.com/companies - OK
+ 2019-10-15 17:18:05,224 - BaseTest -INFO - https://ui.cogmento.com/deals
+ 2019-10-15 17:18:06,240 - BaseTest -INFO - https://ui.cogmento.com/deals - OK
+ 2019-10-15 17:18:06,284 - BaseTest -INFO - https://ui.cogmento.com/tasks
+ 2019-10-15 17:18:07,300 - BaseTest -INFO - https://ui.cogmento.com/tasks - OK
+ 2019-10-15 17:18:07,349 - BaseTest -INFO - https://ui.cogmento.com/cases
+ 2019-10-15 17:18:08,366 - BaseTest -INFO - https://ui.cogmento.com/cases - OK
+ 2019-10-15 17:18:08,395 - BaseTest -INFO - https://ui.cogmento.com/calls
+ 2019-10-15 17:18:09,395 - BaseTest -INFO - https://ui.cogmento.com/calls - OK
+ 2019-10-15 17:18:09,436 - BaseTest -INFO - https://ui.cogmento.com/documents
+ 2019-10-15 17:18:10,400 - BaseTest -INFO - https://ui.cogmento.com/documents - OK
+ 2019-10-15 17:18:10,447 - BaseTest -INFO - https://ui.cogmento.com/email
+ 2019-10-15 17:18:11,467 - BaseTest -INFO - https://ui.cogmento.com/email - OK
+ 2019-10-15 17:18:11,505 - BaseTest -INFO - https://ui.cogmento.com/campaigns
+ 2019-10-15 17:18:12,505 - BaseTest -INFO - https://ui.cogmento.com/campaigns - OK
+ 2019-10-15 17:18:12,529 - BaseTest -INFO - https://ui.cogmento.com/forms
+ 2019-10-15 17:18:13,576 - BaseTest -INFO - https://ui.cogmento.com/forms - OK
+ 2019-10-23 23:47:42,282 - BaseTest -INFO - browser open
+ 2019-10-23 23:47:43,830 - BaseTest -INFO - login done
+ 2019-10-23 23:47:51,452 - BaseTest -INFO - contact module clicked
+ 2019-10-23 23:48:18,809 - BaseTest -INFO - browser open
+ 2019-10-23 23:48:19,359 - BaseTest -INFO - login done
+ 2019-10-23 23:48:24,681 - BaseTest -INFO - contact module clicked
+ 2019-10-23 23:48:25,081 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-23 23:48:38,043 - BaseTest -INFO - browser open
+ 2019-10-23 23:48:38,558 - BaseTest -INFO - login done
+ 2019-10-23 23:48:43,039 - BaseTest -INFO - contact module clicked
+ 2019-10-23 23:48:43,565 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-23 23:53:39,802 - BaseTest -INFO - browser open
+ 2019-10-23 23:53:40,425 - BaseTest -INFO - login done
+ 2019-10-23 23:53:45,694 - BaseTest -INFO - contact module clicked
+ 2019-10-23 23:53:45,782 - BaseTest -INFO - header matched
+ 2019-10-23 23:54:02,163 - BaseTest -INFO - browser open
+ 2019-10-23 23:54:02,707 - BaseTest -INFO - login done
+ 2019-10-23 23:54:05,291 - BaseTest -INFO - contact module clicked
+ 2019-10-23 23:54:05,643 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-23 23:54:05,703 - BaseTest -INFO - header matched
+ 2019-10-23 23:54:18,644 - BaseTest -INFO - browser open
+ 2019-10-23 23:54:19,273 - BaseTest -INFO - login done
+ 2019-10-23 23:54:22,406 - BaseTest -INFO - contact module clicked
+ 2019-10-23 23:54:23,205 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-24 00:20:55,898 - BaseTest -INFO - browser open
+ 2019-10-24 00:20:56,551 - BaseTest -INFO - login done
+ 2019-10-24 00:21:04,336 - BaseTest -INFO - contact module clicked
+ 2019-10-24 00:21:05,311 - BaseTest -INFO - header matched
+ 2019-10-24 00:21:26,127 - BaseTest -INFO - browser open
+ 2019-10-24 00:21:26,630 - BaseTest -INFO - login done
+ 2019-10-24 00:21:33,145 - BaseTest -INFO - contact module clicked
+ 2019-10-24 00:21:33,459 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-24 00:21:33,573 - BaseTest -INFO - header matched
+ 2019-10-24 00:21:43,741 - BaseTest -INFO - browser open
+ 2019-10-24 00:21:44,231 - BaseTest -INFO - login done
+ 2019-10-24 00:21:51,146 - BaseTest -INFO - contact module clicked
+ 2019-10-24 00:21:51,502 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-25 22:33:28,294 - BaseTest -INFO - browser open
+ 2019-10-25 22:33:48,309 - BaseTest -INFO - login done
+ 2019-10-25 22:33:55,595 - BaseTest -INFO - contact module clicked
+ 2019-10-25 22:33:55,861 - BaseTest -INFO - header matched
+ 2019-10-25 22:34:46,296 - BaseTest -INFO - browser open
+ 2019-10-25 22:34:47,103 - BaseTest -INFO - login done
+ 2019-10-25 22:34:50,251 - BaseTest -INFO - contact module clicked
+ 2019-10-25 22:34:52,624 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-25 22:34:52,687 - BaseTest -INFO - header matched
+ 2019-10-25 22:35:13,700 - BaseTest -INFO - browser open
+ 2019-10-25 22:35:14,522 - BaseTest -INFO - login done
+ 2019-10-25 22:35:17,144 - BaseTest -INFO - contact module clicked
+ 2019-10-25 22:35:17,573 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-26 00:21:01,344 - BaseTest -INFO - browser open
+ 2019-10-26 00:21:05,133 - BaseTest -INFO - login done
+ 2019-10-26 00:21:08,968 - BaseTest -INFO - contact module clicked
+ 2019-10-26 00:21:09,689 - BaseTest -INFO - header matched
+ 2019-10-26 00:21:49,368 - BaseTest -INFO - browser open
+ 2019-10-26 00:21:49,873 - BaseTest -INFO - login done
+ 2019-10-26 00:21:52,290 - BaseTest -INFO - contact module clicked
+ 2019-10-26 00:21:52,798 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-26 00:21:53,251 - BaseTest -INFO - header matched
+ 2019-10-26 00:22:19,447 - BaseTest -INFO - browser open
+ 2019-10-26 00:22:19,979 - BaseTest -INFO - login done
+ 2019-10-26 00:22:21,958 - BaseTest -INFO - contact module clicked
+ 2019-10-26 00:22:22,264 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-26 00:29:51,793 - BaseTest -INFO - browser open
+ 2019-10-26 00:29:52,494 - BaseTest -INFO - login done
+ 2019-10-26 00:29:55,806 - BaseTest -INFO - contact module clicked
+ 2019-10-26 00:29:56,150 - BaseTest -INFO - header matched
+ 2019-10-26 00:30:24,372 - BaseTest -INFO - browser open
+ 2019-10-26 00:30:24,930 - BaseTest -INFO - login done
+ 2019-10-26 00:30:27,411 - BaseTest -INFO - contact module clicked
+ 2019-10-26 00:30:28,069 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-26 00:30:28,506 - BaseTest -INFO - header matched
+ 2019-10-26 00:30:53,348 - BaseTest -INFO - browser open
+ 2019-10-26 00:30:53,899 - BaseTest -INFO - login done
+ 2019-10-26 00:30:56,137 - BaseTest -INFO - contact module clicked
+ 2019-10-26 00:30:56,395 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-26 01:11:54,426 - BaseTest -INFO - browser open
+ 2019-10-26 01:11:55,480 - BaseTest -INFO - login done
+ 2019-10-26 01:11:57,985 - BaseTest -INFO - contact module clicked
+ 2019-10-26 01:11:58,460 - BaseTest -INFO - header matched
+ 2019-10-26 01:12:27,953 - BaseTest -INFO - browser open
+ 2019-10-26 01:12:28,497 - BaseTest -INFO - login done
+ 2019-10-26 01:12:30,851 - BaseTest -INFO - contact module clicked
+ 2019-10-26 01:12:45,391 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-26 01:12:45,482 - BaseTest -INFO - header matched
+ 2019-10-26 01:13:12,124 - BaseTest -INFO - browser open
+ 2019-10-26 01:13:12,688 - BaseTest -INFO - login done
+ 2019-10-26 01:13:14,774 - BaseTest -INFO - contact module clicked
+ 2019-10-26 01:13:15,040 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-26 01:18:30,881 - BaseTest -INFO - browser open
+ 2019-10-26 01:18:31,745 - BaseTest -INFO - login done
+ 2019-10-26 01:18:36,895 - BaseTest -INFO - contact module clicked
+ 2019-10-26 01:18:37,111 - BaseTest -INFO - header matched
+ 2019-10-26 01:19:06,544 - BaseTest -INFO - browser open
+ 2019-10-26 01:19:07,127 - BaseTest -INFO - login done
+ 2019-10-26 01:19:09,208 - BaseTest -INFO - contact module clicked
+ 2019-10-26 01:19:09,667 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-26 01:19:09,733 - BaseTest -INFO - header matched
+ 2019-10-26 01:19:23,670 - BaseTest -INFO - browser open
+ 2019-10-26 01:19:24,200 - BaseTest -INFO - login done
+ 2019-10-26 01:19:26,702 - BaseTest -INFO - contact module clicked
+ 2019-10-26 01:19:26,980 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-26 01:34:15,174 - BaseTest -INFO - browser open
+ 2019-10-26 01:34:16,066 - BaseTest -INFO - login done
+ 2019-10-26 01:34:20,886 - BaseTest -INFO - contact module clicked
+ 2019-10-26 01:34:20,949 - BaseTest -INFO - header matched
+ 2019-10-26 01:34:37,460 - BaseTest -INFO - browser open
+ 2019-10-26 01:34:38,027 - BaseTest -INFO - login done
+ 2019-10-26 01:34:40,255 - BaseTest -INFO - contact module clicked
+ 2019-10-26 01:34:40,771 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-26 01:34:40,842 - BaseTest -INFO - header matched
+ 2019-10-26 01:34:55,525 - BaseTest -INFO - browser open
+ 2019-10-26 01:34:56,076 - BaseTest -INFO - login done
+ 2019-10-26 01:34:58,249 - BaseTest -INFO - contact module clicked
+ 2019-10-26 01:34:58,519 - BaseTest -INFO - create new cantact botton clicked
+ 2019-10-26 01:35:08,447 - BaseTest -INFO - contact created successfully
  

@@ -442,3 +442,419 @@
 2019-06-21 20:54:08,052 [main] INFO BaseTest - password entered
 2019-06-21 20:54:14,036 [main] INFO BaseTest - submit button clicked
 2019-06-21 20:54:17,066 [main] INFO BaseTest - Test pass
+2019-06-22 02:51:09,941 [main] INFO BaseTest - Browser opened
+2019-06-22 02:51:18,368 [main] INFO BaseTest - Username entered
+2019-06-22 02:51:23,504 [main] INFO BaseTest - Password entered
+2019-06-22 02:51:27,687 [main] INFO BaseTest - logintest is passed
+2019-06-22 02:51:41,067 [main] INFO BaseTest - username entered
+2019-06-22 02:51:41,174 [main] INFO BaseTest - password entered
+2019-06-22 02:51:45,024 [main] INFO BaseTest - submit button clicked
+2019-06-22 02:51:49,973 [main] INFO BaseTest - new Customer link clicked
+2019-06-22 02:51:50,089 [main] INFO BaseTest - Customer name entered
+2019-06-22 02:51:50,169 [main] INFO BaseTest - Customer gender selected
+2019-06-22 02:51:50,567 [main] INFO BaseTest - DOB entered
+2019-06-22 02:51:50,653 [main] INFO BaseTest - address entered
+2019-06-22 02:51:50,762 [main] INFO BaseTest - city name entered
+2019-06-22 02:51:50,860 [main] INFO BaseTest - state name entered
+2019-06-22 02:51:50,983 [main] INFO BaseTest - pin entered
+2019-06-22 02:51:51,143 [main] INFO BaseTest - mobile number entered
+2019-06-22 02:51:51,383 [main] INFO BaseTest - email entered
+2019-06-22 02:51:51,466 [main] INFO BaseTest - password entered
+2019-06-22 02:51:55,238 [main] INFO BaseTest - submit button clicked
+2019-06-22 02:51:58,276 [main] INFO BaseTest - Test pass
+2019-07-07 17:05:03,435 [main] INFO BaseTest - Browser opened
+2019-07-07 17:05:13,916 [main] INFO BaseTest - Username entered
+2019-07-07 17:08:56,814 [main] INFO BaseTest - username entered
+2019-07-07 17:08:57,341 [main] INFO BaseTest - password entered
+2019-07-07 17:09:06,017 [main] INFO BaseTest - login botton clicked
+2019-07-07 17:11:59,428 [main] INFO BaseTest - username entered
+2019-07-07 17:11:59,755 [main] INFO BaseTest - password entered
+2019-07-07 17:12:05,445 [main] INFO BaseTest - login botton clicked
+2019-07-07 17:17:41,668 [main] INFO BaseTest - username entered
+2019-07-07 17:17:41,895 [main] INFO BaseTest - password entered
+2019-07-07 17:17:50,012 [main] INFO BaseTest - login botton clicked
+2019-07-07 17:19:06,685 [main] INFO BaseTest - username entered
+2019-07-07 17:19:06,838 [main] INFO BaseTest - password entered
+2019-07-07 17:19:16,078 [main] INFO BaseTest - login botton clicked
+2019-07-07 17:22:35,579 [main] INFO BaseTest - username entered
+2019-07-07 17:22:35,790 [main] INFO BaseTest - password entered
+2019-07-07 17:22:48,819 [main] INFO BaseTest - login botton clicked
+2019-07-07 17:28:24,870 [main] INFO BaseTest - username entered
+2019-07-07 17:28:25,041 [main] INFO BaseTest - password entered
+2019-07-07 17:28:27,770 [main] INFO BaseTest - login botton clicked
+2019-07-07 17:29:54,292 [main] INFO BaseTest - username entered
+2019-07-07 17:29:54,402 [main] INFO BaseTest - password entered
+2019-07-07 17:29:56,434 [main] INFO BaseTest - login botton clicked
+2019-07-07 17:32:45,138 [main] INFO BaseTest - username entered
+2019-07-07 17:32:45,526 [main] INFO BaseTest - password entered
+2019-07-07 17:32:55,531 [main] INFO BaseTest - login botton clicked
+2019-07-07 17:32:58,200 [main] INFO BaseTest - mouseover on admin link
+2019-07-07 17:32:58,318 [main] INFO BaseTest - mouseover on UserManagmentLink 
+2019-07-07 17:32:58,926 [main] INFO BaseTest - users link clicked
+2019-07-07 17:32:59,007 [main] INFO BaseTest - number of table row identified
+2019-07-07 17:32:59,033 [main] INFO BaseTest - number of column identified
+2019-07-07 17:36:26,431 [main] INFO BaseTest - username entered
+2019-07-07 17:36:26,533 [main] INFO BaseTest - password entered
+2019-07-07 17:36:29,296 [main] INFO BaseTest - login botton clicked
+2019-07-07 17:36:34,446 [main] INFO BaseTest - mouseover on admin link
+2019-07-07 17:36:34,559 [main] INFO BaseTest - mouseover on UserManagmentLink 
+2019-07-07 17:36:35,173 [main] INFO BaseTest - users link clicked
+2019-07-07 17:36:35,293 [main] INFO BaseTest - number of table row identified
+2019-07-07 17:36:35,320 [main] INFO BaseTest - number of column identified
+2019-07-07 17:40:13,081 [main] INFO BaseTest - username entered
+2019-07-07 17:40:13,219 [main] INFO BaseTest - password entered
+2019-07-07 17:40:18,820 [main] INFO BaseTest - login botton clicked
+2019-07-07 17:40:20,368 [main] INFO BaseTest - mouseover on admin link
+2019-07-07 17:40:20,482 [main] INFO BaseTest - mouseover on UserManagmentLink 
+2019-07-07 17:40:21,086 [main] INFO BaseTest - users link clicked
+2019-07-07 17:40:21,121 [main] INFO BaseTest - number of table row identified
+2019-07-07 17:40:21,146 [main] INFO BaseTest - number of column identified
+2019-07-07 17:43:13,028 [main] INFO BaseTest - username entered
+2019-07-07 17:43:13,150 [main] INFO BaseTest - password entered
+2019-07-07 17:43:15,183 [main] INFO BaseTest - login botton clicked
+2019-07-07 17:43:18,923 [main] INFO BaseTest - mouseover on admin link
+2019-07-07 17:43:19,051 [main] INFO BaseTest - mouseover on UserManagmentLink 
+2019-07-07 17:43:19,676 [main] INFO BaseTest - users link clicked
+2019-07-07 17:43:19,713 [main] INFO BaseTest - number of table row identified
+2019-07-07 17:43:19,738 [main] INFO BaseTest - number of column identified
+2019-07-07 17:50:36,122 [main] INFO BaseTest - username entered
+2019-07-07 17:50:36,274 [main] INFO BaseTest - password entered
+2019-07-07 17:50:40,821 [main] INFO BaseTest - login botton clicked
+2019-07-07 17:50:42,820 [main] INFO BaseTest - mouseover on admin link
+2019-07-07 17:50:42,931 [main] INFO BaseTest - mouseover on UserManagmentLink 
+2019-07-07 17:50:43,530 [main] INFO BaseTest - users link clicked
+2019-07-07 17:50:43,583 [main] INFO BaseTest - number of table row identified
+2019-07-07 17:50:43,611 [main] INFO BaseTest - number of column identified
+2019-07-07 17:56:29,466 [main] INFO BaseTest - username entered
+2019-07-07 17:56:29,569 [main] INFO BaseTest - password entered
+2019-07-07 17:56:31,606 [main] INFO BaseTest - login botton clicked
+2019-07-07 17:56:35,377 [main] INFO BaseTest - mouseover on admin link
+2019-07-07 17:56:35,493 [main] INFO BaseTest - mouseover on UserManagmentLink 
+2019-07-07 17:56:36,103 [main] INFO BaseTest - users link clicked
+2019-07-07 17:56:36,147 [main] INFO BaseTest - number of table row identified
+2019-07-07 17:56:36,175 [main] INFO BaseTest - number of column identified
+2019-07-07 17:57:52,684 [main] INFO BaseTest - username entered
+2019-07-07 17:57:52,806 [main] INFO BaseTest - password entered
+2019-07-07 17:57:55,003 [main] INFO BaseTest - login botton clicked
+2019-07-07 17:57:58,476 [main] INFO BaseTest - mouseover on admin link
+2019-07-07 17:57:58,592 [main] INFO BaseTest - mouseover on UserManagmentLink 
+2019-07-07 17:57:59,148 [main] INFO BaseTest - users link clicked
+2019-07-07 17:58:02,198 [main] INFO BaseTest - number of table row identified
+2019-07-07 17:58:02,224 [main] INFO BaseTest - number of column identified
+2019-09-27 21:47:09,338 [main] INFO BaseTest - Browser opened
+2019-09-27 23:51:43,100 [main] INFO BaseTest - Browser opened
+2019-09-27 23:52:52,463 [main] INFO BaseTest - Browser opened
+2019-10-01 12:08:27,246 [main] INFO BaseTest - username entered
+2019-10-01 12:08:27,388 [main] INFO BaseTest - password entered
+2019-10-01 12:08:29,311 [main] INFO BaseTest - login botton clicked
+2019-10-01 12:08:32,052 [main] INFO BaseTest - mouseover on admin link
+2019-10-01 12:08:32,191 [main] INFO BaseTest - mouseover on UserManagmentLink 
+2019-10-01 12:08:32,871 [main] INFO BaseTest - users link clicked
+2019-10-01 12:08:35,974 [main] INFO BaseTest - number of table row identified
+2019-10-01 12:08:36,024 [main] INFO BaseTest - number of column identified
+2019-10-01 12:15:16,804 [main] INFO BaseTest - username entered
+2019-10-01 12:15:16,973 [main] INFO BaseTest - password entered
+2019-10-01 12:15:21,607 [main] INFO BaseTest - login botton clicked
+2019-10-01 12:15:23,392 [main] INFO BaseTest - mouseover on admin link
+2019-10-01 12:15:23,541 [main] INFO BaseTest - mouseover on UserManagmentLink 
+2019-10-01 12:15:24,266 [main] INFO BaseTest - users link clicked
+2019-10-01 12:15:27,336 [main] INFO BaseTest - number of table row identified
+2019-10-01 12:15:27,410 [main] INFO BaseTest - number of column identified
+2019-10-02 00:15:05,224 [main] INFO BaseTest - username entered
+2019-10-02 00:15:05,429 [main] INFO BaseTest - password entered
+2019-10-02 00:15:06,741 [main] INFO BaseTest - login button clicked
+2019-10-02 00:16:05,630 [main] INFO BaseTest - username entered
+2019-10-02 00:16:05,769 [main] INFO BaseTest - password entered
+2019-10-02 00:16:09,346 [main] INFO BaseTest - login button clicked
+2019-10-02 00:16:09,630 [main] INFO BaseTest - mouseoverin pimlink
+2019-10-02 00:16:10,935 [main] INFO BaseTest - employeelist link clicked
+2019-10-02 11:44:48,760 [main] INFO BaseTest - uername entered
+2019-10-02 11:44:49,048 [main] INFO BaseTest - password entered
+2019-10-02 11:44:50,132 [main] INFO BaseTest - login button clicked
+2019-10-02 11:46:35,256 [main] INFO BaseTest - uername entered
+2019-10-02 11:46:35,478 [main] INFO BaseTest - password entered
+2019-10-02 11:46:42,749 [main] INFO BaseTest - login button clicked
+2019-10-02 11:47:47,816 [main] INFO BaseTest - uername entered
+2019-10-02 11:47:47,943 [main] INFO BaseTest - password entered
+2019-10-02 11:47:50,255 [main] INFO BaseTest - login button clicked
+2019-10-02 11:47:52,220 [main] INFO BaseTest - mouseover on pim link
+2019-10-02 11:47:53,697 [main] INFO BaseTest - emplist linked clicked
+2019-10-02 11:47:55,053 [main] INFO BaseTest - empname clicked
+2019-10-02 11:49:38,236 [main] INFO BaseTest - uername entered
+2019-10-02 11:49:38,358 [main] INFO BaseTest - password entered
+2019-10-02 11:49:42,480 [main] INFO BaseTest - login button clicked
+2019-10-02 11:49:42,728 [main] INFO BaseTest - mouseover on pim link
+2019-10-02 11:49:44,252 [main] INFO BaseTest - emplist linked clicked
+2019-10-02 11:49:45,939 [main] INFO BaseTest - empname clicked
+2019-10-02 11:49:46,091 [main] INFO BaseTest - User able to view personal details
+2019-10-10 20:52:39,282 [main] INFO BaseTest - Browser opened
+2019-10-15 11:22:10,231 [main] INFO BaseTest - initialization of brower
+2019-10-15 11:22:13,329 [main] INFO BaseTest - Cogmento CRM :  login page  title 
+2019-10-15 11:22:22,326 [main] INFO BaseTest - initialization of brower
+2019-10-15 11:22:23,156 [main] INFO BaseTest - login completed
+2019-10-15 11:22:25,969 [main] INFO BaseTest - header found
+2019-10-15 13:14:20,673 [main] INFO BaseTest - browser open
+2019-10-15 13:14:21,834 [main] INFO BaseTest - login done
+2019-10-15 13:14:42,021 [main] INFO BaseTest - browser open
+2019-10-15 13:14:42,553 [main] INFO BaseTest - login done
+2019-10-15 13:16:32,116 [main] INFO BaseTest - browser open
+2019-10-15 13:16:32,807 [main] INFO BaseTest - login done
+2019-10-15 13:16:46,326 [main] INFO BaseTest - browser open
+2019-10-15 13:16:46,896 [main] INFO BaseTest - login done
+2019-10-15 13:16:49,540 [main] INFO BaseTest - null
+2019-10-15 13:16:49,568 [main] INFO BaseTest - null
+2019-10-15 13:16:49,591 [main] INFO BaseTest - null
+2019-10-15 13:16:49,613 [main] INFO BaseTest - null
+2019-10-15 13:16:49,635 [main] INFO BaseTest - null
+2019-10-15 13:16:49,654 [main] INFO BaseTest - null
+2019-10-15 13:16:49,677 [main] INFO BaseTest - null
+2019-10-15 13:16:49,696 [main] INFO BaseTest - null
+2019-10-15 13:16:49,729 [main] INFO BaseTest - null
+2019-10-15 13:16:49,751 [main] INFO BaseTest - null
+2019-10-15 13:16:49,770 [main] INFO BaseTest - null
+2019-10-15 13:16:49,791 [main] INFO BaseTest - null
+2019-10-15 13:23:46,003 [main] INFO BaseTest - browser open
+2019-10-15 13:23:46,624 [main] INFO BaseTest - login done
+2019-10-15 13:24:03,113 [main] INFO BaseTest - browser open
+2019-10-15 13:24:03,698 [main] INFO BaseTest - login done
+2019-10-15 13:24:04,907 [main] INFO BaseTest - null
+2019-10-15 13:24:05,772 [main] INFO BaseTest - null
+2019-10-15 13:24:05,825 [main] INFO BaseTest - null
+2019-10-15 13:24:05,853 [main] INFO BaseTest - null
+2019-10-15 13:24:05,877 [main] INFO BaseTest - null
+2019-10-15 13:24:05,897 [main] INFO BaseTest - null
+2019-10-15 13:24:05,925 [main] INFO BaseTest - null
+2019-10-15 13:24:05,945 [main] INFO BaseTest - null
+2019-10-15 13:24:06,213 [main] INFO BaseTest - null
+2019-10-15 13:24:06,231 [main] INFO BaseTest - null
+2019-10-15 13:24:06,251 [main] INFO BaseTest - null
+2019-10-15 13:24:06,283 [main] INFO BaseTest - null
+2019-10-15 13:25:53,060 [main] INFO BaseTest - browser open
+2019-10-15 13:25:53,656 [main] INFO BaseTest - login done
+2019-10-15 13:26:05,250 [main] INFO BaseTest - browser open
+2019-10-15 13:26:05,835 [main] INFO BaseTest - login done
+2019-10-15 13:26:06,803 [main] INFO BaseTest - null
+2019-10-15 13:26:06,848 [main] INFO BaseTest - null
+2019-10-15 13:26:06,877 [main] INFO BaseTest - null
+2019-10-15 13:26:06,900 [main] INFO BaseTest - null
+2019-10-15 13:26:06,932 [main] INFO BaseTest - null
+2019-10-15 13:26:06,962 [main] INFO BaseTest - null
+2019-10-15 13:26:06,999 [main] INFO BaseTest - null
+2019-10-15 13:26:07,041 [main] INFO BaseTest - null
+2019-10-15 13:26:07,076 [main] INFO BaseTest - null
+2019-10-15 13:26:07,108 [main] INFO BaseTest - null
+2019-10-15 13:26:07,127 [main] INFO BaseTest - null
+2019-10-15 13:26:07,158 [main] INFO BaseTest - null
+2019-10-15 13:30:46,975 [main] INFO BaseTest - browser open
+2019-10-15 13:30:47,631 [main] INFO BaseTest - login done
+2019-10-15 13:31:02,754 [main] INFO BaseTest - browser open
+2019-10-15 13:31:03,262 [main] INFO BaseTest - login done
+2019-10-15 13:31:04,860 [main] INFO BaseTest - null
+2019-10-15 13:31:04,887 [main] INFO BaseTest - null
+2019-10-15 13:31:05,700 [main] INFO BaseTest - null
+2019-10-15 13:31:05,721 [main] INFO BaseTest - null
+2019-10-15 13:31:05,743 [main] INFO BaseTest - null
+2019-10-15 13:31:05,778 [main] INFO BaseTest - null
+2019-10-15 13:31:05,799 [main] INFO BaseTest - null
+2019-10-15 13:31:05,819 [main] INFO BaseTest - null
+2019-10-15 13:31:05,848 [main] INFO BaseTest - null
+2019-10-15 13:31:05,884 [main] INFO BaseTest - null
+2019-10-15 13:31:05,909 [main] INFO BaseTest - null
+2019-10-15 13:31:05,925 [main] INFO BaseTest - null
+2019-10-15 13:34:23,417 [main] INFO BaseTest - browser open
+2019-10-15 13:34:24,084 [main] INFO BaseTest - login done
+2019-10-15 13:34:35,247 [main] INFO BaseTest - browser open
+2019-10-15 13:34:35,804 [main] INFO BaseTest - login done
+2019-10-15 13:34:39,333 [main] INFO BaseTest - https://ui.cogmento.com/home
+2019-10-15 13:34:39,435 [main] INFO BaseTest - https://ui.cogmento.com/calendar
+2019-10-15 13:34:39,466 [main] INFO BaseTest - https://ui.cogmento.com/contacts
+2019-10-15 13:34:39,492 [main] INFO BaseTest - https://ui.cogmento.com/companies
+2019-10-15 13:34:39,531 [main] INFO BaseTest - https://ui.cogmento.com/deals
+2019-10-15 13:34:39,556 [main] INFO BaseTest - https://ui.cogmento.com/tasks
+2019-10-15 13:34:39,586 [main] INFO BaseTest - https://ui.cogmento.com/cases
+2019-10-15 13:34:39,630 [main] INFO BaseTest - https://ui.cogmento.com/calls
+2019-10-15 13:34:39,649 [main] INFO BaseTest - https://ui.cogmento.com/documents
+2019-10-15 13:34:39,714 [main] INFO BaseTest - https://ui.cogmento.com/email
+2019-10-15 13:34:39,733 [main] INFO BaseTest - https://ui.cogmento.com/campaigns
+2019-10-15 13:34:39,757 [main] INFO BaseTest - https://ui.cogmento.com/forms
+2019-10-15 16:14:10,991 [main] INFO BaseTest - browser open
+2019-10-15 16:14:11,880 [main] INFO BaseTest - login done
+2019-10-15 16:14:28,778 [main] INFO BaseTest - browser open
+2019-10-15 16:14:29,312 [main] INFO BaseTest - login done
+2019-10-15 16:14:31,411 [main] INFO BaseTest - https://ui.cogmento.com/home
+2019-10-15 16:14:31,456 [main] INFO BaseTest - https://ui.cogmento.com/calendar
+2019-10-15 16:14:48,474 [main] INFO BaseTest - https://ui.cogmento.com/contacts
+2019-10-15 16:14:48,509 [main] INFO BaseTest - https://ui.cogmento.com/companies
+2019-10-15 16:14:48,541 [main] INFO BaseTest - https://ui.cogmento.com/deals
+2019-10-15 16:14:48,572 [main] INFO BaseTest - https://ui.cogmento.com/tasks
+2019-10-15 16:14:48,603 [main] INFO BaseTest - https://ui.cogmento.com/cases
+2019-10-15 16:14:48,619 [main] INFO BaseTest - https://ui.cogmento.com/calls
+2019-10-15 16:14:48,650 [main] INFO BaseTest - https://ui.cogmento.com/documents
+2019-10-15 16:14:48,681 [main] INFO BaseTest - https://ui.cogmento.com/email
+2019-10-15 16:14:48,713 [main] INFO BaseTest - https://ui.cogmento.com/campaigns
+2019-10-15 16:14:48,759 [main] INFO BaseTest - https://ui.cogmento.com/forms
+2019-10-15 16:15:45,972 [main] INFO BaseTest - browser open
+2019-10-15 16:16:09,157 [main] INFO BaseTest - login done
+2019-10-15 16:19:13,532 [main] INFO BaseTest - browser open
+2019-10-15 16:19:17,931 [main] INFO BaseTest - login done
+2019-10-15 16:20:25,153 [main] INFO BaseTest - browser open
+2019-10-15 16:20:37,609 [main] INFO BaseTest - login done
+2019-10-15 17:00:20,412 [main] INFO BaseTest - browser open
+2019-10-15 17:01:52,710 [main] INFO BaseTest - login done
+2019-10-15 17:02:20,958 [main] INFO BaseTest - browser open
+2019-10-15 17:02:21,670 [main] INFO BaseTest - login done
+2019-10-15 17:02:58,206 [main] INFO BaseTest - https://ui.cogmento.com/home
+2019-10-15 17:03:47,311 [main] INFO BaseTest - https://ui.cogmento.com/calendar
+2019-10-15 17:06:00,760 [main] INFO BaseTest - https://ui.cogmento.com/contacts
+2019-10-15 17:10:50,438 [main] INFO BaseTest - browser open
+2019-10-15 17:10:51,118 [main] INFO BaseTest - login done
+2019-10-15 17:11:15,439 [main] INFO BaseTest - browser open
+2019-10-15 17:11:16,038 [main] INFO BaseTest - login done
+2019-10-15 17:11:42,896 [main] INFO BaseTest - https://ui.cogmento.com/home
+2019-10-15 17:13:20,839 [main] INFO BaseTest - https://ui.cogmento.com/home - OK
+2019-10-15 17:13:55,344 [main] INFO BaseTest - https://ui.cogmento.com/calendar
+2019-10-15 17:14:29,895 [main] INFO BaseTest - https://ui.cogmento.com/calendar - OK
+2019-10-15 17:17:33,769 [main] INFO BaseTest - browser open
+2019-10-15 17:17:34,386 [main] INFO BaseTest - login done
+2019-10-15 17:17:52,887 [main] INFO BaseTest - browser open
+2019-10-15 17:17:53,400 [main] INFO BaseTest - login done
+2019-10-15 17:17:55,821 [main] INFO BaseTest - https://ui.cogmento.com/home
+2019-10-15 17:18:01,885 [main] INFO BaseTest - https://ui.cogmento.com/home - OK
+2019-10-15 17:18:01,921 [main] INFO BaseTest - https://ui.cogmento.com/calendar
+2019-10-15 17:18:02,968 [main] INFO BaseTest - https://ui.cogmento.com/calendar - OK
+2019-10-15 17:18:03,007 [main] INFO BaseTest - https://ui.cogmento.com/contacts
+2019-10-15 17:18:04,117 [main] INFO BaseTest - https://ui.cogmento.com/contacts - OK
+2019-10-15 17:18:04,157 [main] INFO BaseTest - https://ui.cogmento.com/companies
+2019-10-15 17:18:05,190 [main] INFO BaseTest - https://ui.cogmento.com/companies - OK
+2019-10-15 17:18:05,224 [main] INFO BaseTest - https://ui.cogmento.com/deals
+2019-10-15 17:18:06,240 [main] INFO BaseTest - https://ui.cogmento.com/deals - OK
+2019-10-15 17:18:06,284 [main] INFO BaseTest - https://ui.cogmento.com/tasks
+2019-10-15 17:18:07,300 [main] INFO BaseTest - https://ui.cogmento.com/tasks - OK
+2019-10-15 17:18:07,349 [main] INFO BaseTest - https://ui.cogmento.com/cases
+2019-10-15 17:18:08,366 [main] INFO BaseTest - https://ui.cogmento.com/cases - OK
+2019-10-15 17:18:08,395 [main] INFO BaseTest - https://ui.cogmento.com/calls
+2019-10-15 17:18:09,395 [main] INFO BaseTest - https://ui.cogmento.com/calls - OK
+2019-10-15 17:18:09,436 [main] INFO BaseTest - https://ui.cogmento.com/documents
+2019-10-15 17:18:10,400 [main] INFO BaseTest - https://ui.cogmento.com/documents - OK
+2019-10-15 17:18:10,447 [main] INFO BaseTest - https://ui.cogmento.com/email
+2019-10-15 17:18:11,467 [main] INFO BaseTest - https://ui.cogmento.com/email - OK
+2019-10-15 17:18:11,505 [main] INFO BaseTest - https://ui.cogmento.com/campaigns
+2019-10-15 17:18:12,505 [main] INFO BaseTest - https://ui.cogmento.com/campaigns - OK
+2019-10-15 17:18:12,529 [main] INFO BaseTest - https://ui.cogmento.com/forms
+2019-10-15 17:18:13,576 [main] INFO BaseTest - https://ui.cogmento.com/forms - OK
+2019-10-23 23:47:42,282 [main] INFO BaseTest - browser open
+2019-10-23 23:47:43,830 [main] INFO BaseTest - login done
+2019-10-23 23:47:51,452 [main] INFO BaseTest - contact module clicked
+2019-10-23 23:48:18,809 [main] INFO BaseTest - browser open
+2019-10-23 23:48:19,359 [main] INFO BaseTest - login done
+2019-10-23 23:48:24,681 [main] INFO BaseTest - contact module clicked
+2019-10-23 23:48:25,081 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-23 23:48:38,043 [main] INFO BaseTest - browser open
+2019-10-23 23:48:38,558 [main] INFO BaseTest - login done
+2019-10-23 23:48:43,039 [main] INFO BaseTest - contact module clicked
+2019-10-23 23:48:43,565 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-23 23:53:39,802 [main] INFO BaseTest - browser open
+2019-10-23 23:53:40,425 [main] INFO BaseTest - login done
+2019-10-23 23:53:45,694 [main] INFO BaseTest - contact module clicked
+2019-10-23 23:53:45,782 [main] INFO BaseTest - header matched
+2019-10-23 23:54:02,163 [main] INFO BaseTest - browser open
+2019-10-23 23:54:02,707 [main] INFO BaseTest - login done
+2019-10-23 23:54:05,291 [main] INFO BaseTest - contact module clicked
+2019-10-23 23:54:05,643 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-23 23:54:05,703 [main] INFO BaseTest - header matched
+2019-10-23 23:54:18,644 [main] INFO BaseTest - browser open
+2019-10-23 23:54:19,273 [main] INFO BaseTest - login done
+2019-10-23 23:54:22,406 [main] INFO BaseTest - contact module clicked
+2019-10-23 23:54:23,205 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-24 00:20:55,898 [main] INFO BaseTest - browser open
+2019-10-24 00:20:56,551 [main] INFO BaseTest - login done
+2019-10-24 00:21:04,336 [main] INFO BaseTest - contact module clicked
+2019-10-24 00:21:05,311 [main] INFO BaseTest - header matched
+2019-10-24 00:21:26,127 [main] INFO BaseTest - browser open
+2019-10-24 00:21:26,630 [main] INFO BaseTest - login done
+2019-10-24 00:21:33,145 [main] INFO BaseTest - contact module clicked
+2019-10-24 00:21:33,459 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-24 00:21:33,573 [main] INFO BaseTest - header matched
+2019-10-24 00:21:43,741 [main] INFO BaseTest - browser open
+2019-10-24 00:21:44,231 [main] INFO BaseTest - login done
+2019-10-24 00:21:51,146 [main] INFO BaseTest - contact module clicked
+2019-10-24 00:21:51,502 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-25 22:33:28,294 [main] INFO BaseTest - browser open
+2019-10-25 22:33:48,309 [main] INFO BaseTest - login done
+2019-10-25 22:33:55,595 [main] INFO BaseTest - contact module clicked
+2019-10-25 22:33:55,861 [main] INFO BaseTest - header matched
+2019-10-25 22:34:46,296 [main] INFO BaseTest - browser open
+2019-10-25 22:34:47,103 [main] INFO BaseTest - login done
+2019-10-25 22:34:50,251 [main] INFO BaseTest - contact module clicked
+2019-10-25 22:34:52,624 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-25 22:34:52,687 [main] INFO BaseTest - header matched
+2019-10-25 22:35:13,700 [main] INFO BaseTest - browser open
+2019-10-25 22:35:14,522 [main] INFO BaseTest - login done
+2019-10-25 22:35:17,144 [main] INFO BaseTest - contact module clicked
+2019-10-25 22:35:17,573 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-26 00:21:01,344 [main] INFO BaseTest - browser open
+2019-10-26 00:21:05,133 [main] INFO BaseTest - login done
+2019-10-26 00:21:08,968 [main] INFO BaseTest - contact module clicked
+2019-10-26 00:21:09,689 [main] INFO BaseTest - header matched
+2019-10-26 00:21:49,368 [main] INFO BaseTest - browser open
+2019-10-26 00:21:49,873 [main] INFO BaseTest - login done
+2019-10-26 00:21:52,290 [main] INFO BaseTest - contact module clicked
+2019-10-26 00:21:52,798 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-26 00:21:53,251 [main] INFO BaseTest - header matched
+2019-10-26 00:22:19,447 [main] INFO BaseTest - browser open
+2019-10-26 00:22:19,979 [main] INFO BaseTest - login done
+2019-10-26 00:22:21,958 [main] INFO BaseTest - contact module clicked
+2019-10-26 00:22:22,264 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-26 00:29:51,793 [main] INFO BaseTest - browser open
+2019-10-26 00:29:52,494 [main] INFO BaseTest - login done
+2019-10-26 00:29:55,806 [main] INFO BaseTest - contact module clicked
+2019-10-26 00:29:56,150 [main] INFO BaseTest - header matched
+2019-10-26 00:30:24,372 [main] INFO BaseTest - browser open
+2019-10-26 00:30:24,930 [main] INFO BaseTest - login done
+2019-10-26 00:30:27,411 [main] INFO BaseTest - contact module clicked
+2019-10-26 00:30:28,069 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-26 00:30:28,506 [main] INFO BaseTest - header matched
+2019-10-26 00:30:53,348 [main] INFO BaseTest - browser open
+2019-10-26 00:30:53,899 [main] INFO BaseTest - login done
+2019-10-26 00:30:56,137 [main] INFO BaseTest - contact module clicked
+2019-10-26 00:30:56,395 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-26 01:11:54,426 [main] INFO BaseTest - browser open
+2019-10-26 01:11:55,480 [main] INFO BaseTest - login done
+2019-10-26 01:11:57,985 [main] INFO BaseTest - contact module clicked
+2019-10-26 01:11:58,460 [main] INFO BaseTest - header matched
+2019-10-26 01:12:27,953 [main] INFO BaseTest - browser open
+2019-10-26 01:12:28,497 [main] INFO BaseTest - login done
+2019-10-26 01:12:30,851 [main] INFO BaseTest - contact module clicked
+2019-10-26 01:12:45,391 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-26 01:12:45,482 [main] INFO BaseTest - header matched
+2019-10-26 01:13:12,124 [main] INFO BaseTest - browser open
+2019-10-26 01:13:12,688 [main] INFO BaseTest - login done
+2019-10-26 01:13:14,774 [main] INFO BaseTest - contact module clicked
+2019-10-26 01:13:15,040 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-26 01:18:30,881 [main] INFO BaseTest - browser open
+2019-10-26 01:18:31,745 [main] INFO BaseTest - login done
+2019-10-26 01:18:36,895 [main] INFO BaseTest - contact module clicked
+2019-10-26 01:18:37,111 [main] INFO BaseTest - header matched
+2019-10-26 01:19:06,544 [main] INFO BaseTest - browser open
+2019-10-26 01:19:07,127 [main] INFO BaseTest - login done
+2019-10-26 01:19:09,208 [main] INFO BaseTest - contact module clicked
+2019-10-26 01:19:09,667 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-26 01:19:09,733 [main] INFO BaseTest - header matched
+2019-10-26 01:19:23,670 [main] INFO BaseTest - browser open
+2019-10-26 01:19:24,200 [main] INFO BaseTest - login done
+2019-10-26 01:19:26,702 [main] INFO BaseTest - contact module clicked
+2019-10-26 01:19:26,980 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-26 01:34:15,174 [main] INFO BaseTest - browser open
+2019-10-26 01:34:16,066 [main] INFO BaseTest - login done
+2019-10-26 01:34:20,886 [main] INFO BaseTest - contact module clicked
+2019-10-26 01:34:20,949 [main] INFO BaseTest - header matched
+2019-10-26 01:34:37,460 [main] INFO BaseTest - browser open
+2019-10-26 01:34:38,027 [main] INFO BaseTest - login done
+2019-10-26 01:34:40,255 [main] INFO BaseTest - contact module clicked
+2019-10-26 01:34:40,771 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-26 01:34:40,842 [main] INFO BaseTest - header matched
+2019-10-26 01:34:55,525 [main] INFO BaseTest - browser open
+2019-10-26 01:34:56,076 [main] INFO BaseTest - login done
+2019-10-26 01:34:58,249 [main] INFO BaseTest - contact module clicked
+2019-10-26 01:34:58,519 [main] INFO BaseTest - create new cantact botton clicked
+2019-10-26 01:35:08,447 [main] INFO BaseTest - contact created successfully
